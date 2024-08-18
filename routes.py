@@ -6,26 +6,36 @@
 from startup import app
 from rpc import send_command
 from utils import create_logger, config, load_map
-from flask import jsonify, request, send_file, abort
-import time
+from flask import send_file, abort
 import os
-
 
 @app.route('/ipfs/cid/<cid>', methods=['GET'])
 def get_ipfs_content_bycid(cid):
-    # Construct the file path
-    file_path = os.path.join('data', 'images', f'{cid}.png')
+    # Remove any extension from the requested CID (e.g., if the frontend requests cid.png)
+    cid_base = os.path.splitext(cid)[0]
     
-    # Check if the file exists
-    if os.path.exists(file_path):
-        # Send the file if it exists
-        return send_file(file_path, mimetype='image/png')
-    else:
-        # Return a 404 error if the file is not found
-        abort(404, description=f"File {cid}.png not found")
+    # Search for the file with any extension
+    directory = 'data/images'
+    
+    for filename in os.listdir(directory):
+        # Compare the base name of the file
+        if os.path.splitext(filename)[0] == cid_base:
+            file_path = os.path.join(directory, filename)
+            
+            # If the file is a WebP image, serve it with a .png extension
+            if filename.lower().endswith('.webp'):
+                return send_file(file_path, mimetype='image/webp', download_name=f'{cid_base}.png')
+            
+            # Otherwise, send the file directly
+            return send_file(file_path)
+    
+    # If the file is not found, return a 404 error
+    abort(404, description=f"File for CID {cid_base} not found")
 
 @app.route('/ipfs/name/<name>')
 def get_ipfs_content_byname(name):
     by_name = load_map("by_name")
-    return get_ipfs_content_bycid(by_name[name.upper()]['ipfs_hash'])
-
+    try:
+        return get_ipfs_content_bycid(by_name[name.upper()]['ipfs_hash'])
+    except:
+        return send_file("placeholder.png")
