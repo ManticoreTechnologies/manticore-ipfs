@@ -778,3 +778,25 @@ Updating asset maps
 Sending command: "listassets" to host: 127.0.0.1 with params: ['', True]
 Node replied with result of length 439237
 Sleeping for 60 seconds
+
+========================================
+         MANTICORE IPFS Mirror          
+========================================
+  (c) 2024 Manticore Technologies LLC   
+----------------------------------------
+Welcome to the Manticore IPFS Mirror! 
+This mirror is designed for Evrmore assets.
+----------------------------------------
+
+Let's start the flask app here since it's gunicorn
+
+========================================
+         MANTICORE IPFS Mirror          
+========================================
+  (c) 2024 Manticore Technologies LLC   
+----------------------------------------
+Welcome to the Manticore IPFS Mirror! 
+This mirror is designed for Evrmore assets.
+----------------------------------------
+
+Let's start the flask app here since it's gunicorn
