@@ -42,3 +42,10 @@ Ensure that your `raven.conf` (or equivalent) is configured with the appropriate
 zmqpubrawblock=tcp://127.0.0.1:29332
 zmqpubrawtx=tcp://127.0.0.1:29333
 ```
+
+
+## Running flask server
+`sudo gunicorn -w 1 -b 0.0.0.0:8002 --timeout 120 startup:app`
+
+## Running download daemon
+`python3 startup.py`
