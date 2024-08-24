@@ -1900,3 +1900,56 @@ Retrying 1 failed downloads...
 Retrying download for IPFS hash: QmfQUhKgEqnJKF2wPmeE3HB8amK6LTyfave4p7QCUMjU7u
 Retry complete. 0 downloads still failed.
 Sleeping for 60 seconds
+
+========================================
+         MANTICORE IPFS Mirror          
+========================================
+  (c) 2024 Manticore Technologies LLC   
+----------------------------------------
+Welcome to the Manticore IPFS Mirror! 
+This mirror is designed for Evrmore assets.
+----------------------------------------
+
+Starting image downloader
+Initializing necessary directories
+Cleaning up duplicate files in the images directory
+Starting duplicate cleanup
+Duplicate cleanup complete
+Mapping file extensions to IPFS hashes
+Mapping file extensions to IPFS hashes in the directory
+File extension to IPFS hash mapping complete
+Loading network assets
+Updating asset maps
+Sending command: "listassets" to host: 127.0.0.1 with params: ['', True]
+Node replied with result of length 441156
+Retrying failed downloads
+Retrying 0 failed downloads...
+Retry complete. 0 downloads still failed.
+Sleeping for 60 seconds
+
+========================================
+         MANTICORE IPFS Mirror          
+========================================
+  (c) 2024 Manticore Technologies LLC   
+----------------------------------------
+Welcome to the Manticore IPFS Mirror! 
+This mirror is designed for Evrmore assets.
+----------------------------------------
+
+Starting image downloader
+Initializing necessary directories
+Cleaning up duplicate files in the images directory
+Starting duplicate cleanup
+Duplicate cleanup complete
+Mapping file extensions to IPFS hashes
+Mapping file extensions to IPFS hashes in the directory
+File extension to IPFS hash mapping complete
+Loading network assets
+Updating asset maps
+Sending command: "listassets" to host: 127.0.0.1 with params: ['', True]
+Node replied with result of length 441156
+Image not cached, downloading: QmfQUhKgEqnJKF2wPmeE3HB8amK6LTyfave4p7QCUMjU7u
+Retrying failed downloads
+Retrying 0 failed downloads...
+Retry complete. 0 downloads still failed.
+Sleeping for 60 seconds

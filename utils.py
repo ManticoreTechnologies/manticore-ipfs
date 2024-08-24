@@ -158,8 +158,10 @@ def load_map(map_name):
 
 import requests
 import time
-from mimetypes import guess_extension
+from mimetypes import guess_extension, add_type
 
+# Ensure .webp MIME type is recognized
+add_type('image/webp', '.webp')
 def download_image(ipfs_hash):
     print("ipfs_hash:", ipfs_hash)
     image_url = f"http://localhost:8080/ipfs/{ipfs_hash}"
