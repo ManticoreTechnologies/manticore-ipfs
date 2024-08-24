@@ -1,7 +1,8 @@
 # Import utilities
-from utils import create_logger, welcome_message, config, initialize_directories, save_maps
+from utils import create_logger, welcome_message, config, initialize_directories, save_maps, load_map, download_image
 import os
 import time
+import json
 
 # Create a logger
 logger = create_logger()
@@ -81,16 +82,45 @@ def file_exists_base(directory, base_name):
             return True
     return False
 
+def retry_failed_downloads():
+    """
+    Retry downloading images for IPFS hashes listed in failed_downloads.json.
+    """
+    failed_downloads_path = './data/maps/failed_downloads.json'
+    if os.path.exists(failed_downloads_path):
+        with open(failed_downloads_path, 'r') as f:
+            failed_downloads = json.load(f)
+        
+        # Remove duplicates from the failed downloads list
+        failed_downloads = list(set(failed_downloads))
+        
+        logger.info(f"Retrying {len(failed_downloads)} failed downloads...")
+        
+        successful_retries = []
+        for ipfs_hash in failed_downloads:
+            logger.info(f"Retrying download for IPFS hash: {ipfs_hash}")
+            download_image(ipfs_hash)
+            # Check if download was successful
+            if file_exists_base("./data/images", ipfs_hash):
+                successful_retries.append(ipfs_hash)
+        
+        # Remove successfully retried IPFS hashes from failed_downloads.json
+        remaining_failed_downloads = [hash for hash in failed_downloads if hash not in successful_retries]
+        with open(failed_downloads_path, 'w') as f:
+            json.dump(remaining_failed_downloads, f)
+        
+        logger.info(f"Retry complete. {len(remaining_failed_downloads)} downloads still failed.")
+    else:
+        logger.info("No failed downloads to retry.")
+
 if __name__=="__main__":
     logger.info("Starting image downloader")
     
     from downloader import map_assets
-    from utils import load_map, download_image
-    from rpc import send_command
 
     # Initialize the necessary directories
     logger.info("Initializing necessary directories")
-    existing_data = initialize_directories()
+    initialize_directories()
 
     # Clean up duplicates before downloading new images
     logger.info("Cleaning up duplicate files in the images directory")
@@ -115,7 +145,7 @@ if __name__=="__main__":
     while True:
         logger.info("Updating asset maps")
         
-        # Reload the asset maps with latest data
+        # Reload the asset maps with the latest data
         by_ipfshash = map_assets()[3]
         
         # Check if we have all the files saved
@@ -124,6 +154,10 @@ if __name__=="__main__":
                 logger.info(f"Image not cached, downloading: {ipfs_hash}")
                 # If we are missing one then try saving it
                 download_image(ipfs_hash)
+        
+        # Retry failed downloads
+        logger.info("Retrying failed downloads")
+        retry_failed_downloads()
         
         # Sleep for a minute
         logger.info("Sleeping for 60 seconds")

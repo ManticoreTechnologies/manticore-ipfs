@@ -800,3 +800,1103 @@ This mirror is designed for Evrmore assets.
 ----------------------------------------
 
 Let's start the flask app here since it's gunicorn
+
+========================================
+         MANTICORE IPFS Mirror          
+========================================
+  (c) 2024 Manticore Technologies LLC   
+----------------------------------------
+Welcome to the Manticore IPFS Mirror! 
+This mirror is designed for Evrmore assets.
+----------------------------------------
+
+Starting image downloader
+Initializing necessary directories
+Cleaning up duplicate files in the images directory
+Starting duplicate cleanup
+Duplicate cleanup complete
+Mapping file extensions to IPFS hashes
+Mapping file extensions to IPFS hashes in the directory
+File extension to IPFS hash mapping complete
+Loading network assets
+Updating asset maps
+Sending command: "listassets" to host: 127.0.0.1 with params: ['', True]
+Node replied with result of length 441156
+Image not cached, downloading: QmQ4bAjHKpb2BE9Rp1vyt1rE6LhJiZftN5gy8QpzwVRygt
+Image not cached, downloading: QmStJY1oYH9vK7qN1JTNYpMA4SUmcQfZnugDwnWYVdRWJH
+Image not cached, downloading: QmapuFQFUA3bqH5zBcxk7uGKnbrcWTdoW1ydjhSm4TrB3J
+Image not cached, downloading: QmfEdBfpUDZQqX26RtgAEBaC2ZJa8QGxqtqwnhrjf9USnn
+Image not cached, downloading: QmfQUhKgEqnJKF2wPmeE3HB8amK6LTyfave4p7QCUMjU7u
+Sleeping for 60 seconds
+Updating asset maps
+Sending command: "listassets" to host: 127.0.0.1 with params: ['', True]
+Node replied with result of length 441156
+Sleeping for 60 seconds
+Updating asset maps
+Sending command: "listassets" to host: 127.0.0.1 with params: ['', True]
+Node replied with result of length 441156
+Sleeping for 60 seconds
+Updating asset maps
+Sending command: "listassets" to host: 127.0.0.1 with params: ['', True]
+Node replied with result of length 441156
+Sleeping for 60 seconds
+Updating asset maps
+Sending command: "listassets" to host: 127.0.0.1 with params: ['', True]
+Node replied with result of length 441156
+Sleeping for 60 seconds
+
+========================================
+         MANTICORE IPFS Mirror          
+========================================
+  (c) 2024 Manticore Technologies LLC   
+----------------------------------------
+Welcome to the Manticore IPFS Mirror! 
+This mirror is designed for Evrmore assets.
+----------------------------------------
+
+Starting image downloader
+Initializing necessary directories
+Cleaning up duplicate files in the images directory
+Starting duplicate cleanup
+Duplicate cleanup complete
+Mapping file extensions to IPFS hashes
+Mapping file extensions to IPFS hashes in the directory
+File extension to IPFS hash mapping complete
+Loading network assets
+Updating asset maps
+Sending command: "listassets" to host: 127.0.0.1 with params: ['', True]
+Node replied with result of length 441156
+Sleeping for 60 seconds
+
+========================================
+         MANTICORE IPFS Mirror          
+========================================
+  (c) 2024 Manticore Technologies LLC   
+----------------------------------------
+Welcome to the Manticore IPFS Mirror! 
+This mirror is designed for Evrmore assets.
+----------------------------------------
+
+Starting image downloader
+Initializing necessary directories
+Cleaning up duplicate files in the images directory
+Starting duplicate cleanup
+Duplicate cleanup complete
+Mapping file extensions to IPFS hashes
+Mapping file extensions to IPFS hashes in the directory
+File extension to IPFS hash mapping complete
+Loading network assets
+Updating asset maps
+Sending command: "listassets" to host: 127.0.0.1 with params: ['', True]
+Node replied with result of length 441156
+Image not cached, downloading: Qma2d3156q51yY6jSSBt34Hk53nmXEovTyrccS4Y7W5eUE
+Image not cached, downloading: Qma2mPPB6VXQFHdD5p2ZSLfLpWyk4Gp8gMoZfLDbGkk9SU
+Image not cached, downloading: Qma63MYLGpKTTRoAesdWNdUdugXDcVwU3kCwbfzHDef7h2
+Image not cached, downloading: QmaELGY6YZNZnFwvcCvdYv5QEMCB6RMmgrYFHdS1bG4jSQ
+Image not cached, downloading: QmaJao7veTbmNQSAPUGUKtJWEXe7FKyiAPkG1arPj2t9KW
+Image not cached, downloading: QmaLQP1s6DB4Yxb3HraYRsTPQCDQ3xdrHByx4PyzmAzPLa
+Image not cached, downloading: QmaQHXHVuH8h2xgWRCAmFN9Capt6yqaPsLsBueq5v6ztTD
+Image not cached, downloading: QmaQMx3JHJReHcPmD2Po6rjb7BozCdb8hX1NQd9NHJoCRh
+Image not cached, downloading: QmaQPsWG2xgSoZkR3eM4u5cxzxuo3Tp3JCHemJreGcUMP7
+Image not cached, downloading: QmaRLLA8nfDws294A4MfL6cMbcd3pC5RdkRxZ4bpH3LvXQ
+Image not cached, downloading: QmaT1HVQwtEDTUuru8QcAma4NQboRWmdWtyVLLh9uYdAzE
+Image not cached, downloading: QmaUESFB8U63eNn7h1SQRrvDq3MaqTw9bbZ9SawCPcNCkx
+Image not cached, downloading: QmaYnVSP7eSfsTFnZPqgjVnftNnaAyGTYQGN6BjURe2DcT
+Image not cached, downloading: QmaYzV7RRE4M5dKb8PAvYshQnkvauvAbm5SGxudrmeegvY
+Image not cached, downloading: Qmaag63M85buGSFktWASwdX9gT2vGbDkjE6kgkSYw3qJvY
+Image not cached, downloading: Qmac3eVNuK3KhwAmz54mPK8ZpJ9ZHfs5yBhLqiZS573ojg
+Image not cached, downloading: QmaeSbGqEGUW5rHrNne63LP1jmCvxZzsus5MFfABJJpdfn
+Image not cached, downloading: Qmafwr9srNgPyMhe6uvY388CSTRTG5WCbip2V1iRLjiM81
+Image not cached, downloading: QmagRd7KG4J4mL6xmzdmy847LZJ6dwjQa9aCP47Uhneykk
+Image not cached, downloading: QmagfHHBsQ2DVX1987G1qCD5wtxPgCA7JEVxy32mobQopQ
+Image not cached, downloading: QmahTA57qdaxZ2XbBn7Xg65pUidor6EQswp36Gq1ojU5TL
+Image not cached, downloading: Qmaj6ewCtX3aGgLSmYuWKypF19g8MH8pBaxRKudkrUU6Hs
+Image not cached, downloading: QmajDEvRXx2hnjbMXuuMjTMvEpjERc2JvMT289vsQLCLzv
+Image not cached, downloading: QmajyPCAeBiPn8Lhds3Amwu1JYA31FcLcLRGH9PFZAJ5hz
+Image not cached, downloading: Qmakk99V7mhHofJWmM9jx8GsaRYnrsr4t5S2hnLFLeBuUw
+Image not cached, downloading: QmanCvjNaXEJRLKbxz46yMpLRGsuauQfAy4ANyHqFfYFav
+Image not cached, downloading: QmangUjAGgyFAjXdW88pLu2yRbH6RYXKaUAZMe4oqKwoAq
+Image not cached, downloading: QmaocGLSznayabUVaTm2qomLUHCXsdzkSaNtJewGJ35ALF
+Image not cached, downloading: QmapuFQFUA3bqH5zBcxk7uGKnbrcWTdoW1ydjhSm4TrB3J
+Image not cached, downloading: QmapuepsWWtSmm26PTLsBmjbApjP5DkP2jKXGVVfKHKGVL
+Image not cached, downloading: Qmas7P4eEM8EP9REBhzdvXfSwpWXyLMaRmcqvPB5FmDACg
+Image not cached, downloading: QmasVuWfu5ZcrxgmZcJebrkKH24b76N2jugMkMZh3mRgJP
+Image not cached, downloading: QmatoYuPX7Z6rSrf1ayYyaxAWcVZCQQT215gZ8J3YuG65p
+Image not cached, downloading: QmawWXd5uGvYF63qm7PbgDhUcM9DpbKW9BUKkMpAP6PtA6
+Image not cached, downloading: Qmb1MHXYKFh9RWxK6RsHBoAZy3bhAMrRpe2JipgWyk3kp8
+Image not cached, downloading: Qmb1QAmG8mnshGGWJprMNPekjXDWFh1tvXjGDDfq2WUPZe
+Image not cached, downloading: Qmb2BqGmwi5xmXu5ke39WoHMRKtER2wobWeCinn7ygoFZT
+Image not cached, downloading: Qmb3YfCWo9jzWX8MypT1AmivQWgMGum5Mxn3XxZnZ8YbmJ
+Image not cached, downloading: Qmb46hi3Xn7PURcrFrro4Janp5nJwNrUAQLkbaJZeur29g
+Image not cached, downloading: Qmb5koNtBQEUqzgLBLb6x7YhUby1G1sfvS9joWTyARC9zN
+Image not cached, downloading: Qmb6ZjnMFBtfwte1yaWa8RcvSSwbiBnFkb8eqcua2xSzSk
+Image not cached, downloading: Qmb6zSwFt9fYZjnztRnzqYFzeggkd4BXna7aUcbPpEnGtP
+Image not cached, downloading: QmbAbFPTXM19EQU7yKMVLrF1trkgLckBna9C8nw3kmfXzh
+Image not cached, downloading: QmbBTZy73Q7Jgadc9cHbUB6Z6buRr4YJHP7dSZD49E9JRZ
+Image not cached, downloading: QmbBUG2Gf936uaRSd3ZyEjvKYhRy6gWvr3FagrFCaDuJvY
+Image not cached, downloading: QmbBZuBZXQ2rdzsLgnzYzN3Vpox8zov6aoidjz3mjCb3FH
+Image not cached, downloading: QmbBitPM78Uenw4vcBem8YbmFgLN29TTnbDCrtrVHEQaCJ
+Image not cached, downloading: QmbBxa2PVQgt5CaywEpirGfcD2xasJ1ogcBM6P4RKqnsAH
+Image not cached, downloading: QmbFKaX51n63wbXzfanpwtushr6QTQroHqCqTo4YkDEn74
+Image not cached, downloading: QmbG9sRhcPYwQNxmea9g7kGUeAJiZrxAB9VkG8Am6E5mmE
+Image not cached, downloading: QmbGW3XJ4D1ZvvXh5exNEkv2mFDBNNgQN7GUVffwHUzGHR
+Image not cached, downloading: QmbHvBESMETKBafX7AuF7TbR31wTPHTpQ81cAndtCcVTNL
+Image not cached, downloading: QmbJ4W2TjYFxq7Ydodzw5sjEuu9ja91K8tw7viU6x95jfM
+Image not cached, downloading: QmbLUgCqRMJs6g7Dm8HeM6dYkmAJpWPNvSD62PCCPpgv44
+Image not cached, downloading: QmbMEhArrdtX9JdETK1asTKE3PkbPeH25tidHn3uQEWKww
+Image not cached, downloading: QmbP46UU4t73j1oZxpX6v2rmY41AyGB6sgUNHbD4WZPD6P
+Image not cached, downloading: QmbPyz2fJX56vvQswtcU7mGhzTBZqw6VWrXvygCYpwpMo4
+Image not cached, downloading: QmbQ7CyALGVpTVH8RAaGpTWgsTqgpDiK3tEud8cgaLVMvz
+Image not cached, downloading: QmbRMfKbf2vaZyU6nyjWMw4HcwBn9sQacpJ3qGr6zGpUtb
+Image not cached, downloading: QmbTPq2ky3ogpU7ri2LN1c6SwsE3ZQ2ap1kgQADVBJxQgL
+Image not cached, downloading: QmbTvHdfPp7XUdQcBQgB11LfRDMcBeosVavPaZi35RDFTL
+Image not cached, downloading: QmbX4yaSJnpM1dJvxRrXC83EQ8TkHHDccCQSSfMKKcyPtM
+Image not cached, downloading: QmbXWC6acCny1Bfp2zGXLruGnKDW7W1D8XLmUG8QdyNGAD
+Image not cached, downloading: QmbY7enRYVVCqUbYXdbDwRtLci4hfVjRx7E38uxSbjePvK
+Image not cached, downloading: QmbYbsL8uZLgNspNJzhtPLD99LGSTnUxembLrYn9wPt3L8
+Image not cached, downloading: QmbYmSa6nFEDjj9BJ7V65MU4KMrcu2EAG2PVNcmmFZmxAn
+Image not cached, downloading: QmbabBWbCh3v1jhJjkTnzzJepqZgdqJWL1gMGw34Mcx7RB
+Image not cached, downloading: QmbcK5YQGsUA8HhSwmaAxUPQYGb3SejvE9La7eHUTc2o6L
+Image not cached, downloading: QmbcTSwWxkvHFTM3Aj7HGe3qWK8WoKRrq8CR3kXo76C6ay
+Image not cached, downloading: QmbcttPGUK1wzujXmwmxQtAe7QpfXtxDsWBdGRjXoXbn92
+Image not cached, downloading: QmbekZJLi3EqXDNzzLMskekTfwGwhdsNT68f1zToFnVGfc
+Image not cached, downloading: QmbeorKVxryV9YC9RDuR5b1Z3bAxqappVjAAaojAJogLcz
+Image not cached, downloading: QmbfQKEgS3WXQdgaGScNiRoWwqfhReBggmgsAu1KSXeaQA
+Image not cached, downloading: QmbgkvRPUyptcTQhJ5ZxqWGjvV7iaH8vEP6hMgeEMGUPpV
+Image not cached, downloading: QmbhDtjFP7Vvrd3bXCs5r2cwYxaiQBjWsDGhpit3YtzAyv
+Image not cached, downloading: QmbhW6PAMT6UMUhbNe2Wr2zJREuSMatjXJpDs9ReLJWqiL
+Image not cached, downloading: QmbhfHMMCwxUmL1VqFNNDZTWXLsXbe79r2Prc9pYJwrhBN
+Image not cached, downloading: QmbhwtXZ1sZE7LjPaPPgDTYfD1hMhVAEHUTkCzxY8F7vQP
+Image not cached, downloading: QmbjwAJfisuoWTinDn1yzzHVGnuB9b2H5us3iSBm4vdadc
+Image not cached, downloading: Qmbk4dwkcStZo1nPQ9itUgN88EtLaApJ9xWx4Szfo8ESea
+Image not cached, downloading: QmbkWAq4b6GSiyBdJ3QQcmJjmRHdHtcyNJHpM84GLXuGnF
+Image not cached, downloading: QmbkYDEjRUzMK5oiCp2SdTyB7hduZhTBtXgPEq6uY9iBp5
+Image not cached, downloading: Qmbm5zTkxbCcJ3Fz53PSRcHpqZkWin55cHHR7m9aQRBZCk
+Image not cached, downloading: Qmbm68o7mfBWv6Np2zGLANoq9QyWFtmLYnetNWHjN15Dhs
+Image not cached, downloading: QmbmwmDn7wNBkCvU7pwTEf9yyHebdgbnFSWDhKfVTHfmJu
+Image not cached, downloading: QmbnWJP8zrgvhzTyJ2PAbRgonRfHHi1DTXQHnsaNxEPfwE
+Image not cached, downloading: QmbodwcA7cKR7neV4hLPvZLcGn2AdJeuMLqSs89qcHGnaQ
+Image not cached, downloading: QmbpAnaR7j1pR7Gc8gXsmmxXLLPa5QYtdt6EVLd95qtwDf
+Image not cached, downloading: QmbpsY5ZKJWzW4faMQZJEmLpgPQBHQxj6BdGvZywZPncpJ
+Image not cached, downloading: QmbqDknKxCmL6A5h8xjTRJTAsCKF2hp4CVqwGVEE16uako
+Image not cached, downloading: QmbyEcVUUKaPwdqAPMmMpFZSQF6DecjJrssk9Lthz9UFNx
+Image not cached, downloading: Qmbyruae76Ydz2ufoTTyHsL4v23kbKR8yduwBPssy6rhCV
+Image not cached, downloading: Qmc1s7E2xMVa72kFkUsJ4nVLWB68XLzt7AJN8RQKYJwx2E
+Image not cached, downloading: Qmc3dKjS2rLsMtTLSaTnsR3w48JX5tn1b4VC9HqT1ZF6jn
+Image not cached, downloading: Qmc54P65jNVXTUeagX2iAKrbCrY96y36GktAkxi7onQJyA
+Image not cached, downloading: Qmc5tFjS6kjHQg1TKpft9PGAgDrVueU9REBBwYmCavqPWA
+Image not cached, downloading: Qmc5xHfFGFT2ZF7zGKJcfAJZxiRk9TbLZDYPKdCS6r9ziM
+Image not cached, downloading: Qmc7stNb79mYD4iFjChZpJfmHD4Qu28XPv1zhf1dCCAmZT
+Image not cached, downloading: Qmc8PQ9ddHWs1xnXHWGsix3a9epaMtiePXdUBkPYTJLKgE
+Image not cached, downloading: Qmc9cxZEi4GH1ZzxJCqDha64uaKKQ8LDJttyJRAAne8tJN
+Image not cached, downloading: QmcDJT9Xq3M9jCmabsLX289eQpXrcbk3ArWYVxyY7F5hVv
+Image not cached, downloading: QmcDTHhxsQ6BFNGKRsnAGkvEVArTS4RmzCUBmfNHhtwPPc
+Image not cached, downloading: QmcEE6nqojqwKL1RTyjdgfbwKK5jgfqwqMQsDjhJKZQkw4
+Image not cached, downloading: QmcESnQaYH4oon3J6Gh2TxUfgJfQWevuyw7jEZSjutFSyA
+Image not cached, downloading: QmcGoqAGkLD6uRVXDbNL1rLAK2rZBPwqhKPgSdtG2L44qn
+Image not cached, downloading: QmcKGzdV8b4mvFwneVC78vZqxyNaCzvYq1ayhQjryWcb2x
+Image not cached, downloading: QmcMUWHhaQbKaPC13qqqYZoJwGq6p7Ln6qR8vjjFqTF79m
+Image not cached, downloading: QmcNVB3YmLdYDxAdh3SJJxqvuGMxgcJrauERyqEMZzJLnL
+Image not cached, downloading: QmcNYD6LTRAJvppNsJ9ddKXQ8V52XpYKccUZtciMgE24be
+Image not cached, downloading: QmcPWpQELDDo3K3RnamneAppCPegDovPF4D8anZS5WiCYW
+Image not cached, downloading: QmcREUmuFCrXTGJrZ8FRwVeVCqdE6Ch4mJNHiFnuxmt6T8
+Image not cached, downloading: QmcSZMfRQZwUutLV6iBiu93ECqUMygmNYsojWRjWhUNsRa
+Image not cached, downloading: QmcUk55T3cMxJwLmUz5qn15WWoBpvv41hJh6ToTkGBSQrF
+Image not cached, downloading: QmcXP2Kb46VbRmdTvNemYaabCzeBREhX4M2zqoTCUUuU5E
+Image not cached, downloading: QmcY7rrugbtqcudiWtMCBuuDpWfV875HEJHCFQFYSssyHe
+Image not cached, downloading: QmcYTu81zR8oiTNhoy79JM582MkdqYinLaYA6jTUT9kp6G
+Image not cached, downloading: Qmcaa99W45oTw7bfTE7cbwqdte1LeHMTtM1UtB8YDqz4hN
+Image not cached, downloading: Qmcg8BYV59eNWqq4HcpFuW3GNAsaMx8uWBR4hAS1m61WCm
+Image not cached, downloading: QmcgE7hpzqdhPBFtQSbxW7CvFbLyRktuuuSrRtDjS64coj
+Image not cached, downloading: Qmci5rUvwzXAGBwVpATSfCYC42MvsXKGbUAwNWHJbF7APi
+Image not cached, downloading: QmckRb9yjZbjmNnefguiyfB5UY5hEanSxvjwdv2BdgTDAz
+Image not cached, downloading: QmckTtVjuRqtbPWNm9seXu8Fkded3pQcBihs4KXDqPFLkD
+Image not cached, downloading: QmckxFFvo3fgcF9t7vVurTc2ecGYdZaTUaYgTgEXKra3qB
+Image not cached, downloading: QmcnXe2nkRBddevyJ4Yb3Bf5jmjy3WA8Lm45eyr5ZnMWPJ
+Image not cached, downloading: QmcqHWD6Zedn96icCJHJFvtFkrALZaaYMfENbC68R7NdxT
+Image not cached, downloading: QmcrzXW2AN5hsDvx4LNhkycVL1AKKFBD5Z48ckUL6Nphf9
+Image not cached, downloading: QmctJW3VT3Ajs8SNbsWMF9ANQ6Kfijm8PBkLermRo3Mb8D
+Image not cached, downloading: QmctT6A1grHcrCC6WZsW4R2qK4d8LPTW3WAVxKmFbUmceo
+Image not cached, downloading: Qmd1a627XkjVMRGqYfNSoJTnVm9pPYQMAnWsf1hqaR7BJY
+Image not cached, downloading: Qmd2WERgvLucdoaEw6Q5jLEbCoC6QgLDPPamRywL8qBUdn
+Image not cached, downloading: Qmd7uofCcuoVy8XQKmkYfB9bDGp85m2Rk2LoPX8H2rnXBb
+Image not cached, downloading: Qmd9gJezcByUX7sZLsmxieJY8Ck63A3xBvXqAzVeDqScEQ
+Image not cached, downloading: Qmd9zqYLCLxXcHSZ995SUvyLjZd1oyLPMykWD1c7soRTpF
+Image not cached, downloading: QmdA5e16iUZVkb76RSX5YKg3nCe4b7xfXF77dM4wYMusmX
+Image not cached, downloading: QmdAWZgiwS6E8soyX8X62CVMLvdp5icMzV44B4TZuaRKLQ
+Image not cached, downloading: QmdCSpBAmXbPkoYFvuoqhHDRrGqcHiqDF7jDCPPQRamyLt
+Image not cached, downloading: QmdCnoQ695Drtb6czjmmGY9yRWrdnabn1Q1RNRqDs2THGh
+Image not cached, downloading: QmdDKLFtUv1X1L1mJd2hZMCjmU94zpUFamcn7Mq87Npg4B
+Image not cached, downloading: QmdGEnzvXN5zYJGdow9mNUCUntbDpTJVDmywafgCbcmmeT
+Image not cached, downloading: QmdLbgNRJLhNyrPL4ZqJGCHoXQAYuy18NWghtDr6zSG6vW
+Image not cached, downloading: QmdMeGKd2h4XddMEjRB8fepDJE7EQR5bqrjTHB3aLM33tj
+Image not cached, downloading: QmdMpPvAjCVLRiCyn9HDprcfUzv8tRPeUqgn1GqXmhQFCv
+Image not cached, downloading: QmdMvCSrWwu5WH9qnoXyyxkaJgVJwUkBwPHTAiouxfAza5
+Image not cached, downloading: QmdPWdcNAEZmaMyYjNweCu2YA5Grx8R8Z3fiTza2pgNLEs
+Image not cached, downloading: QmdSUysx82rxvECPQYYqbV5R4prugSgBcTQdT9Z82G4J7b
+Image not cached, downloading: QmdT3atuREwpsVQiLY1ZNmEJoACysWMGmhXi4SUkdLXHHH
+Image not cached, downloading: QmdT4gc2XovMDBRapV86VbZSwcGpwTihtAF6XTVC9DVVKW
+Image not cached, downloading: QmdTEuRXyGY92fcaW8cfEA6Sx3zjuc2M82RJLCjW2ueSEx
+Image not cached, downloading: QmdTJwRecZ1deYqooAMgGmBcEoQUpTQfTXGG8Z1WLZz8NU
+Image not cached, downloading: QmdTN6C3DHe1vLiD9k87rgDeQKv37JodEX6Lrz1L5KSNks
+Image not cached, downloading: QmdUshyLUMRgwy6Wirj6r3dwQsUddmrG2tVVfPXN8XfCjd
+Image not cached, downloading: QmdUzRFfyPpLqDKDGgzTnJqewKhVFKticP6JmsYL2oWSCG
+Image not cached, downloading: QmdXpgbGTpDESUVVYsDDqwK1sijDgWUmpQvfJQKjDyTj4c
+Image not cached, downloading: QmdYx1wJQSqqtVvPFSi4mB81QXa8wgshNr3SVJmy9xafYs
+Image not cached, downloading: QmdaN9PVLMhqbxmuTrrBwENxspK1MRN7hUdqfXUqWKm2K8
+Image not cached, downloading: QmddtvKN7JGXrqZwdyoScwvQamkEWi9w6CJvBcG3SRdAeq
+Image not cached, downloading: QmdedK9vsNEQiTD3QFj2oeLgiRSRoJzPbrEEM5i1eSSfwg
+Image not cached, downloading: QmdgGspBAf3QJpc571eDFEjckTmVhaHdGTu2X7hNdTLneU
+Image not cached, downloading: QmdigfUr1r8MYNLcjDW8uof9YjHeJWfDUkp7iMR1x3Z4nA
+Image not cached, downloading: QmdkcTGx3MXuinuXB3GjTWmmnP3tHW3pKKTHnPdxPsmb3j
+Image not cached, downloading: Qmdp7cibHtvJvjuWoBXCPAYkmt2QLMoaJVirSzFpajfNGH
+Image not cached, downloading: QmdpXREEYkLEKxnkdEs9C9VqPA4DbNHSipPzBsiVeXMs2g
+Image not cached, downloading: Qmdph8NJJAu9EP6CYrxLABLPYXaje3WZofMqdsFdmjudDS
+Image not cached, downloading: Qmdr9aDNxC2Ubd5tPEBH2rvfCQwBadCfRDjMwjLyFpQJXY
+Image not cached, downloading: Qmds1zQrr4eKmCCvcSYqipc9UcxzLEsuPmC9LEwB7FQXAC
+Image not cached, downloading: QmdtsPXQ7pYQAXRCTwUVs2rhNfiLseBpTdbcbhbrd21h1L
+Image not cached, downloading: QmduxgSbfEgHrHHw3wRqG5AQ8EpfostJmrDY2LKvz2XeB5
+Image not cached, downloading: QmdwCSMSzd9AZ35CjhRsvxE1X5vf7o4BkcLmHp25EgWcGW
+Image not cached, downloading: QmdwepYLSc8M96t9xUpghx5NhtNHHcZg2PxP5pPCogZ8Hr
+Image not cached, downloading: QmdzqukAKE4G1s3fnxQq9Qe5XJD8vmUiqfFm522JAwQNpi
+Image not cached, downloading: Qme1FL4JRvAR5rQdXgMdTMHaTY8cAwTCssmwiN1giB5CVS
+Image not cached, downloading: Qme4qq44kJ2RXrkFJRvQQF8Chd1wCRkunLcKFEpSuJK65o
+Image not cached, downloading: Qme6Q5EqYL7J2XEbpYqpeVdAfo1eRPQYrZt5JS4vRypbAv
+Image not cached, downloading: Qme8TdsdvWDnHyNatiVmEyGDzLob7XhqwhWJm6B7gkAnBZ
+Image not cached, downloading: Qme8zgdZUz6HPcSkVTC6F2HgBAP1WH8Qm5w3eVa9TnN6gJ
+Image not cached, downloading: Qme99KoETViH7pm18uqHQ1HSYQtDPSAnCbGv8Un7L88hkL
+Image not cached, downloading: Qme9yrWk6kcDw4k2FrAWoz5SDN69JaycWXHDv264C569HM
+Image not cached, downloading: QmeAhXM2pb7mToUwRXwGHxmE9dHBzYCEGojahtEY6C5d98
+Image not cached, downloading: QmeCkrgMkw6G8FLmHXuxJ1f2DYVwnx81buYJ58rH4j9Wev
+Image not cached, downloading: QmeCmrBXkox6RCS9ivPTWpVAiCHKwKRodPSHXyLcF2W8o5
+Image not cached, downloading: QmeDffEWzTRao4R2FHVyFb1HDR6eY912aGtNXYXGpap3c1
+Image not cached, downloading: QmeE1NnrUrRkNujxZcwxvkYXhLkWi97aNGEWCwAvmx9PZm
+Image not cached, downloading: QmeFVeRMy78JoErF5CKVsccJF3mrfGMYC6eGrdqFYHe9QK
+Image not cached, downloading: QmeGCYpyUVGXHtLb1eKRW8XCjyFfP96psJ63zUTMUg1XJF
+Image not cached, downloading: QmeGgd16sWq6TNfXy8xzwQWRhv1vZUjP1LBxVnfaHaoV25
+Image not cached, downloading: QmeHr8KGYxQimKNymFXexLcw9yhkjV5DbR77iyYHQcoA1K
+Image not cached, downloading: QmeJdZkf53HZ7Emx9qv5zYwnckuR7tKGMNPhuemywecE9e
+Image not cached, downloading: QmeL4KL5bphJnAr3oTi9pGVcZXCZnafrP7AEfSAf2aQy6J
+Image not cached, downloading: QmeL5oEaVJmQc6VXNzKfnHoJZZDmRveei2b23mfxTrJd94
+Image not cached, downloading: QmeMdF5vEiud7FTUQH2NR7qV6Wfa1fYjbQmdPtTYhoiNwr
+Image not cached, downloading: QmePanW1kJobvtwYNcgaKdBJQ8skMQwm5CLu1ZGspv1TQF
+Image not cached, downloading: QmeQFUpPjZVr4xRejkKoavzGqM8CxRTNW31tThgvxpjx19
+Image not cached, downloading: QmeSbQniav89UE9wqkHs33jktohFRnEhXkK9bZLXNmKcas
+Image not cached, downloading: QmeSmGd9WK6utC6BayzMEYshC5ntxSoDVdYprUnBeeZ8DJ
+Image not cached, downloading: QmeVEB9UtEvZq2hGsTbB3rdhbd6Nn6RDuGcXNxndNLMuHx
+Image not cached, downloading: QmeVSj9q2zCLqs5JCCCN2YoMBmstZEjUvAHGsgLt6VeAfi
+Image not cached, downloading: QmeVqqfPy1uhutZsJ1Qaw2LhRxU3WptVd43vcMPtZ6XCMy
+Image not cached, downloading: QmeXPhZQMZUGfzPLZY2R6DbKiQDXpokChGnYVdur6TYhDf
+Image not cached, downloading: QmeXyZDjJaPDzuadAdwWqySGwAgBiq1bPsMsTodUE2FRNw
+Image not cached, downloading: QmeXzssFv83312myYPkYjj6ntxKTK8ssnamNSYVAq6kLiH
+Image not cached, downloading: Qmeac1tfy8GJjAqYXTwHxafgvGBYjKHpPtGsubxLSH6fch
+Image not cached, downloading: QmeaujUqHrrM4fahoxgvSGXHSo1UQAphs8yZj2L2mNbxBf
+Image not cached, downloading: Qmebz6HSixcwaChRzNP17KMKHUGcLyyrJoao7g6h24park
+Image not cached, downloading: Qmec35X8BL3DuVvkr656ZYxPf3g4FBB5wEgeeKX2c7UDua
+Image not cached, downloading: QmeciJ4LFciVh26ViGLiLskeVK3tKMVnqNxRwuxCjcPNjR
+Image not cached, downloading: QmedBNPKG7Whpzqw8RvJ6g6qdJ7yTSBxnaoP1fYJD4bCYQ
+Image not cached, downloading: QmeeCYgpqBEXmgEY8P3jMwqpgDMUYgsJSQjaWYVM5QJJi3
+Image not cached, downloading: QmefU78Sx9XmhTVcyjonnpTVViDHM4HBu2iCXAUjuUz2yS
+Image not cached, downloading: QmegGaMqEs14mpcSi6Aa55xtpxTSh1v6UFVYvgrBYMw4Jp
+Image not cached, downloading: QmegHLMYAoAPkvBUkqWHfHDkgzUVdss868DLJv37SNQsgV
+Image not cached, downloading: QmegnPDrfvrT3dUDuVtom6vWdhmtuykKmnEq2AwcNQSwxg
+Image not cached, downloading: Qmeh2ssib5marnh1eTnC86JUkHF2DgfkSAFt88fQZXczUB
+Image not cached, downloading: Qmeh9Ki44HziBhsHGUUydjBok4rCsaXCD1zL7vgoGZujY4
+Image not cached, downloading: Qmejjaid8JmdzF8CYrEYqw2fZvyt3RmZguZ9huy47rAnB3
+Image not cached, downloading: Qmem9jCKXz9ciEsFPkUqBJ4yHZhPyST9ZGmAzxBY358hsi
+Image not cached, downloading: QmemQdk4SjDkFBacrn1WPngr8MLaxDyKRQAi6SvJgikLEp
+Image not cached, downloading: Qmer2TccjrbTLm1mZbXQ5S5Pf7RmzeiVYG3mKYbwuBTkr4
+Image not cached, downloading: QmesXN4mUgbazguUabeqTGzJdBzK7NQ38KZWA5HE4JPncY
+Image not cached, downloading: Qmetm6WVj5aT9myDHd7qeBKjmUw9FZRmihaX6ARdDCZGSt
+Image not cached, downloading: QmevV2V2mDLThgyRrkC6DV6MyRPWBgRy2Vy3BrfUvLEMBF
+Image not cached, downloading: QmewBBtFTSL2KWXkMMi2y8QdamU7fGLPjTMcHk1q1dcfUh
+Image not cached, downloading: Qmex1jRdZdv7L1FqvprhcTz6rxPeyH6cJTUXxC4B6dr3qL
+Image not cached, downloading: Qmex2bZMQX5SXiwzzcyAcPHTVwpMiuj5HqpQnYrhJYccob
+Image not cached, downloading: QmexDEVrpk8ryacFfvoEWnSeX6h2KsDtpj4FPotHx7cpPp
+Image not cached, downloading: QmexsKCo5X16e3DaPGjcamUrjqhUtJkVxdt6VxbduhRAKR
+Image not cached, downloading: QmeyMwB6Dp5RYWbhHAg62QGFPq6UejbAMQNNBTnDquQuP4
+Image not cached, downloading: Qmez1bKXPVGRbGePzkFqvLiUKfi1tnkmctdZc1eTmrdNfh
+Image not cached, downloading: Qmf1Gw3vSu5QJeJKXLFtMuzjdeTAbvdG53qnuuKw6C8ko5
+Image not cached, downloading: Qmf1xy1WV1VYRyVi5H7gLxGDUZU5BfFsZKgzJJpWNUscYC
+Image not cached, downloading: Qmf2YEhg11CCYJac3DuDwt3nAXjQmCvKr8YWMvF4Hx99Lr
+Image not cached, downloading: Qmf2oYp1S7X6HfXfJWRDRG3qPWL5M55N7hL7wQvorHu2Qr
+Image not cached, downloading: Qmf3B8WsWeyRMo3J2t55W5NqtFRCj37gUeNofB36fBdqPg
+Image not cached, downloading: Qmf5rVK4TGrDbpQMwLTzk2fNwcSUNGBETQgGmm9Y9XPhcT
+Image not cached, downloading: Qmf6WVsMvYfAYGaXDBLGeYMLCGGsZnQH1JvzQSjVwa2DZb
+Image not cached, downloading: Qmf72o557cso8rQrAykhzGT3ewyBsMqwQ6sAPfPQU3o72n
+Image not cached, downloading: Qmf7WsVnh8vDk2MkM7FSo6541LF1rExrk3pbnytn5EkGPD
+Image not cached, downloading: QmfADTDxRuxLVmz4LrDUyt5bcTMb9F61MorTt2JBioWPP2
+Image not cached, downloading: QmfAJuVhq9mUQzpEzTkweNg258p92NfXd7G3DKejFvHzJ6
+Image not cached, downloading: QmfATAfMbwYhFWtGZHpHs7Ls2v6SHdHwLPx9iTyn66bMeG
+Image not cached, downloading: QmfBQuPuJcZJuZVz1exUsyjmkV6mKeaPEPkqU2sxmz2ebr
+Image not cached, downloading: QmfEdBfpUDZQqX26RtgAEBaC2ZJa8QGxqtqwnhrjf9USnn
+Image not cached, downloading: QmfHgnUFwj71bxjYBK3fBFQ7hmjMjdDg6gE4y8s8YQnFxi
+Image not cached, downloading: QmfJxFxw51iT69bzNeh8o3DnrDz6YfAxCqHJh132ihBBcE
+Image not cached, downloading: QmfNucJZxx1fMY5jSFgGyBzcf68c2d37u68csas2o6HX9r
+Image not cached, downloading: QmfP8fGtGej76evNDuPYoucsDMpphzZXjFS2mB1VbMHvPb
+Image not cached, downloading: QmfPG1YgtgvmULTcuVYasfZnTzpveTjVU2W2TNBFRgvNJJ
+Image not cached, downloading: QmfQ3t82UX7rGni9Hs5DEaSJ2awjFyKG735ex9B8YQNxZo
+Image not cached, downloading: QmfQUhKgEqnJKF2wPmeE3HB8amK6LTyfave4p7QCUMjU7u
+Image not cached, downloading: QmfR4KNK2wuVoeeN2qXub5zAvUszpcWR5PcXYxrXX6VTUF
+Image not cached, downloading: QmfSrXMekiDT1nCmyb794prQdjefoy5UzYsJUm5Apjqubr
+Image not cached, downloading: QmfWPAEakqioBh5uhg5BonDCKeWTggfzatWDwwRSfaN5ms
+Image not cached, downloading: QmfWdxBaQbfWygBgRrZ2MMeRw2Px6mJCNDzSetL9nB91q3
+Image not cached, downloading: QmfYwZQqqNDUFfiGL1qwGPL1qGia4VbsTEZBkDzChojRaw
+Image not cached, downloading: QmfZvGfigbSfqEjSRad5JD9AVtR2DiLBjLe4HzUwXNAb7j
+Sleeping for 60 seconds
+
+========================================
+         MANTICORE IPFS Mirror          
+========================================
+  (c) 2024 Manticore Technologies LLC   
+----------------------------------------
+Welcome to the Manticore IPFS Mirror! 
+This mirror is designed for Evrmore assets.
+----------------------------------------
+
+Starting image downloader
+Initializing necessary directories
+Cleaning up duplicate files in the images directory
+Starting duplicate cleanup
+Duplicate cleanup complete
+Mapping file extensions to IPFS hashes
+Mapping file extensions to IPFS hashes in the directory
+File extension to IPFS hash mapping complete
+Loading network assets
+Updating asset maps
+Sending command: "listassets" to host: 127.0.0.1 with params: ['', True]
+Node replied with result of length 441156
+Image not cached, downloading: QmNMAtLNk1XVHEvDW3b4uXznAeKNr4MLfh4tDnn9jgKsQU
+Image not cached, downloading: QmNR7ZtYxXC1msMkoUmSvGwmzWRakcnDbp9Ax6vz5ncZnX
+Image not cached, downloading: QmNRtUrMfRHoBdhKppwpbt1VjdZWzdveZfnzawRTYApa2V
+Image not cached, downloading: QmNS9kWkEDuiBnpFDCHYwKKpUugd5yHedEBjeeTXzaWwYV
+Image not cached, downloading: QmNSPd2XbzzhTtnkGZBCH1tmnvsgFDFmRCh5UfMYWtGBSt
+Image not cached, downloading: QmNTpmTawyjvUS8AqExpqyUU7Jwv6yRi1YH8zLvpYBGKbQ
+Image not cached, downloading: QmNUAKCpFsNhU6biQKzuH9CVrgojkGbqAtNHZSkZSSf26f
+Image not cached, downloading: QmNUi3cA9rqenPpNGY3H7obqutzExbPrvuzZDrkJb1HQy8
+Image not cached, downloading: QmNWRmMQSESMYSa68TsZoVPsMDvQCgxLqM6L9xomwhnJWf
+Image not cached, downloading: QmNWmzNxiGUvUJ9gCZxWbzi9TjGoDvfV5qdbPphgfE2Nue
+Image not cached, downloading: QmNZ5i8EGY1BgaKCs4K5MuLEMZg2cESd3aLy4AA11FUTkX
+Image not cached, downloading: QmNbrwRt7Y88ytYn9smVC3TynvCRDviVNhuFmGyk3y8AQs
+Image not cached, downloading: QmNcdyQL5LmuQmpDbbg1XmsrgXP6JQLTEm6gHoM9XuAkkd
+Image not cached, downloading: QmNdkkyDZMChHqDWnLi2rQezript7PCBs8or3w6AKm86ze
+Image not cached, downloading: QmNfA6nEEB1jF5RTuusZfZ7vWEuWsQ9F6nveAfbxzntkx7
+Image not cached, downloading: QmNfjNnnXxuTjhq8vmFhMh1hvgDEBCKsSMEYGTP22AtXsK
+Image not cached, downloading: QmNoGXAvEnL4xhtGRLnNkj4yjL3miLM23RaiBVatZ6Rud3
+Image not cached, downloading: QmNrTPyLb8AFwZfuMzFhLDQqz9hvXKJrhtA73yMxrXWWe9
+Image not cached, downloading: QmNuPQx7vFnJ4ocDB4foSWFyoQELGJgPzT6F9VNPT5GxBL
+Image not cached, downloading: QmNw48bTRx5jr5qRpNEdSvgCHK9Z2WdsccAqJyn6VdQH3k
+Image not cached, downloading: QmNwrAbpLzC4WdRrFYCafBwwqCmnErxVS6pfGfjswVcG17
+Image not cached, downloading: QmNwt4F2kCi3JTMg68zvbip49ky8Nmp5dwwAntPD5weT6c
+Image not cached, downloading: QmNxnHS93AgxMhKukGZi4aBc5Lc1PtY1DDtbbEVBNzMJM7
+Image not cached, downloading: QmP2oRcDRXKa9RpdwxErXzNQuxSfEvmUNizTX3VfE1RW4q
+Image not cached, downloading: QmP2vWc7m19n3kzYQiBTTUZmcd127JT4CCWWuJgDakTdXV
+Image not cached, downloading: QmP3NYksiSZ5Dk1ZAkCoasdDphcE9kiMoM1UWJjrzAeZEC
+Image not cached, downloading: QmP5Z1QGppCrroH1RGkRfSHJw17CNbJYSsFDwMDGJpEryJ
+Image not cached, downloading: QmP5ZEwG59DGf5dpDM8t9pWEfDmrvJ456Ug51tyXRYfbb3
+Image not cached, downloading: QmP7vtSz8LwyAS86pknExc1aovUW6JymLXttGBSfYf28sK
+Image not cached, downloading: QmP9HzK5iZHAg26XZZv6pqMPvb5THf1GLUkErpX6Mx6ozH
+Image not cached, downloading: QmPBwsZVCoggZYjj7QuTHtTaMPadNDhjmEjKguKbFk3cgx
+Image not cached, downloading: QmPDxQrNvVZ99P62es4UqFG8VQz34GKHiokFKW6ZSoGWNw
+Image not cached, downloading: QmPE1LC6YZr9drQdVwUqgsGQ7DtGpNg3H4mRmFsKUHsyt6
+Image not cached, downloading: QmPFfgY7nDhyRmpzjuHzrR42kZgDiD2QZRfBzPK4W9gECt
+Image not cached, downloading: QmPJV6T5TbHv5vmaGtyxpAzAttHNqBNuQ5o5kZaNVXqEnh
+Image not cached, downloading: QmPJw3fTzSzP193XWzQAvAcPGWuAPa8vGNn66aDqpKaXJ9
+Image not cached, downloading: QmPKwBPTNdD78vvm3kBBEh633CWCaaaa9qMrarBDMgQMv6
+Image not cached, downloading: QmPMrgi6wnG1jnDnSzUsQHQS9dijShfrwWxMW57ygNarZL
+Image not cached, downloading: QmPNadTbdLuk3JQZgCozqwmNGNcyscExueD4iGSD9xsg1Y
+Image not cached, downloading: QmPPLf17MTjPMXgUsGn8z3NLignV1KQkJML7gP2jWxS2Fg
+Image not cached, downloading: QmPPaBp6Q28DrGMdwn6qD5Pa74K1i2HY9JwQRRb3pQFfqk
+Image not cached, downloading: QmPSCjXnUts3bxUx8yKHoFNmKmE55wKKPMU1fRcLE7BXmq
+Image not cached, downloading: QmPUcmNeEbAd8avRPzanqvbYvS9JscXiHsqkd5Tkr4kG15
+Image not cached, downloading: QmPVCM6j2UwsyXeydEcaYmi4ouhnRc3D4pTVX9LoJh9u7Y
+Image not cached, downloading: QmPVRRqQBZkVi2g12DXyCGTqnnJvJ2LuJD9oDpEnHQtaAT
+Image not cached, downloading: QmPVu3UzmgEydq8kwXyki9hh2rdiepfkZbchSkFVDN5eET
+Image not cached, downloading: QmPXBhdRiYTFxdDCZUxeEHvs6WqywbRKiFaczD1EpBCiZb
+Image not cached, downloading: QmPXtt23q31dRJ2hYj4bo6rDuA9wd5BxYPxZEqoNEXUEJB
+Image not cached, downloading: QmPbLYptybEzb7if1rFo4BA8xbLjiR41jXLxsotoPYdCWe
+Image not cached, downloading: QmPefPrPkV633dpmycm7gEpgL7FpKD1jcrQuw8YVj6C5sY
+Image not cached, downloading: QmPfEp42MZ5jRAwvWhkJ6mL8ZrDxZjrgEb2BAQJKRP6kEf
+Image not cached, downloading: QmPkpaPe44R4sxRDx7UALsZdZLRwBw8JYpZoUwvjpQEBrT
+Image not cached, downloading: QmPmDR4jgoVgSRMRh4urj4aHpEdgSYiifB7n4mqCvbDdoV
+Image not cached, downloading: QmPmF2a9DCcj5gY4fmKvKcJ89XBKtie3q32jn56FpUQ7Vv
+Image not cached, downloading: QmPnNgC7s1yQoumx9uPrnXtywivN35zVguj1hseaNUXYDt
+Image not cached, downloading: QmPoTKQa6qJbCMFCNJ9B3mMcJ49HHxNM1VNPoggiVw8cTT
+Image not cached, downloading: QmPp5KEqwpQrJDw9tLmeeuS5JajNoNFFjA2HhhWAgndLzv
+Image not cached, downloading: QmPq92YroZSjoaTrmycKFZ7EmsfRC8CAMeCvV4RxzXt1tN
+Image not cached, downloading: QmPqCj7MVbCSqmeuKYsu7VuzD3K3fQKoBJESSwhVzWTNu1
+Image not cached, downloading: QmPrHR412fyC3dc46SMqAV3xymWotADQNCzQownvN1uD2r
+Image not cached, downloading: QmPtRYaX5RLu3FtmbBqsgNbPfuzGC3WPR5f8kVPSw5MpXP
+Image not cached, downloading: QmPtUZuWw2Ht9aPwzgpAyQSuFYyNxVt6vihRyNF59zeH9M
+Image not cached, downloading: QmPtk3DjFnwEEGZCH38WSbmoSuBr7WGUMhSo92XGQsjazC
+Image not cached, downloading: QmPukbyc7A2HXS64AfxDkWiqmv1p2tWADFJnff3VpyXLzi
+Image not cached, downloading: QmPvfvZ1VbN4xBMfpoQomXQtwRco8soQ39HzccoCkJ64uo
+Image not cached, downloading: QmPwxwL9xMhcKtgaoQqYoPtoAPpvxvDEFdADX4KSJMMmFC
+Image not cached, downloading: QmPxCMjqZhbjvzYoKsWJDqEArbQvVojKC76DPbiyWmxHmS
+Image not cached, downloading: QmPyC7BghWfkPjtRYrga4c9vxyLdX6xpuDgcCMwwxm2vLx
+Image not cached, downloading: QmQ2GB1cASsew5NT5itFjpvGCeHZwY2JVuMDJfjb3bg8j7
+Image not cached, downloading: QmQ2XUwPqr4HtraXzBNcQwMxbay9PHiCx8s4pfpuxEnWQz
+Image not cached, downloading: QmQ2rVtAsfz69ptu95k9D2VkNhgT2KEdncW1sfwwuhUpn2
+Image not cached, downloading: QmQ38wuNEonwgW5LzubGZLd4iMTq1yN49LVVQprqT5zEYt
+Image not cached, downloading: QmQ4bAjHKpb2BE9Rp1vyt1rE6LhJiZftN5gy8QpzwVRygt
+Image not cached, downloading: QmQ69Qs5awbCHZwueUvpybWdh9yoWAay97FMY15mvwvAfq
+Image not cached, downloading: QmQ6pUg2pcNop3oSrP5QXGnoewExRJvADMgRAH4UfcfeeH
+Image not cached, downloading: QmQ8E7CcihRSqNBS3PyWLns3tD1HsJNt642aD8dqs5BGGC
+Image not cached, downloading: QmQ94FB72WbJW2WZ6tCdTiVPS9379Cb4F7ySzVg9Qdp4Lm
+Image not cached, downloading: QmQ9QH7EiJrdkZ5iUoM9babXnZ4k7kpmbGEEapep7pFf3t
+Image not cached, downloading: QmQ9i9Hr6e9K9hcwZEDvc99Zvg1jDJeKuA3CD61WXpAfsL
+Image not cached, downloading: QmQAs7Zb41Usuvs7mBFqow6e7VNKAy4ParjugaW7xm7xxG
+Image not cached, downloading: QmQBSYqYyqzCm6EHN4sGfMtgrb4iwd9gscgas79TtHG1qL
+Image not cached, downloading: QmQCgWs9jGp5zvBxRb1D4ToUmHoVD6195VWAudYVFSY9fo
+Image not cached, downloading: QmQDpp7VzCtnXwofZvQZfV25PDLTVcTN8ti2Tbnbz7hVmi
+Image not cached, downloading: QmQKTRLM9A43JDRJME7d4nMxqU2Dz5c9kPzKrF1MfsmDvw
+Image not cached, downloading: QmQKxBkv9M3HH9P9Vdu9aqkrDA6HzEYc2YzSZaPdNMApQM
+Image not cached, downloading: QmQL2iqvvXV6PxxFtqBiLDJEZmVUqJ65ujBekgKUthz2hT
+Image not cached, downloading: QmQM1fwbPg9p3KmM3f1M7uJUqH5PMCYdsEkwjEMBephXqP
+Image not cached, downloading: QmQMfcaq8f4cBvTnmS3EyxwtMzbF7fjTdCMW86uwd1hg5T
+Image not cached, downloading: QmQNrFFz6Px51ZdpCDPtoxHJ21K95ZktCRE9hXD5dpcgg9
+Image not cached, downloading: QmQPJ5Q9Aq3egjR3d7QqQxbtAn7UBbWNd3XxyVTExesJg2
+Image not cached, downloading: QmQPu6DRV4Dbdj4RjLjWqEgBAqwASpABbyLJCaLnXu8CUS
+Image not cached, downloading: QmQUWGemxtvvGRFUfUiUyQ3F2zw7Uzxqp9dvp3fV152dc3
+Image not cached, downloading: QmQVxq7JVGPE9GZpY9CWKHHPfHQx1XtgzSybtkLtsDPBem
+Image not cached, downloading: QmQXLwNSEzrZeNLSrfwSFhMkfJLHtyyFFvj1cyfqN6Cwyd
+Image not cached, downloading: QmQY8YYfvTcqrrhr33Lcb51YoYP9QQpebuhbwXqWTetgCj
+Image not cached, downloading: QmQYqU7hBpP3q3QjFh6bDCKbrBqUtn5UbpPRzJak5rst2C
+Image not cached, downloading: QmQZMP8ejTqa956aMdUBhrSHF6gDwsreG6RPTKCpUrEdTT
+Image not cached, downloading: QmQbATYFGb5rvEwHEGXHMQBo467oc3EEyW8M2wASRqpi7S
+Image not cached, downloading: QmQcFF8BMCq2HD7ifFKgRM5nsyWmUHPzqeLgeEj6rBTCid
+Image not cached, downloading: QmQe8LsqhuWTZCk3UE75ZaURBgpEKSyeaFLNy2cU2695un
+Image not cached, downloading: QmQg2Lk15fNVak1TwavgxUCwKDJrjgPFUL6o8jJBpaKAdM
+Image not cached, downloading: QmQgMJKgvT1Au6HA33BZjGwqnntUh6qsEz322qzXN16djV
+Image not cached, downloading: QmQhz6xvBa6uucE5AhrVKcmmzh7MtttEDQsji275x4nvet
+Image not cached, downloading: QmQmPcQ6pRpcUwACyzJAjUGQpCkYumsFWfwHjKgV8m4JZK
+Image not cached, downloading: QmQnKuoTSWXaVk4YzCrUCqV5oCL4E49t2yzidZAzG7xmtJ
+Image not cached, downloading: QmQna82izfKvthA7S1YYtG8ZchBCiBaLRQgFGwc4fRvRJM
+Image not cached, downloading: QmQqhuCcJxkkoDXLoqnMfPEodN2ZB5DpiTAdCtowgBoWJJ
+Image not cached, downloading: QmQrPnctTcaLPYnPNkpT83U8StWG7ni7RHfT5ufaBDR64Y
+Image not cached, downloading: QmQt9HSz8WNCFySWQftPpDKPr4j9Vrgw3DURPq2WKCBSV9
+Image not cached, downloading: QmQtvWNq37WN4BvtJBgNFqoXcGXwGr6ssCyNR2guHFScnF
+Image not cached, downloading: QmQu7P9mQxJSekT6CCMGCh3XHvaTjgSVJBVNvAJsMZXvXv
+Image not cached, downloading: QmQuHCoEkmB6oamsNgXLBmpp1anj21Ra8Q9Vz7ercbdLTz
+Image not cached, downloading: QmQv1s16efvDo5VE6kv6MQCyBFVLXkLHq876QGXFT4MXpD
+Image not cached, downloading: QmQvgYtRt69sChpbDSmy3cyYqw2jjAaZ4uXZ3gjUafs3j6
+Image not cached, downloading: QmQzqwvUfLu4aAPoska6AfFMaDjCAG259cm7mCvgArXkFx
+Image not cached, downloading: QmR1VXXsZUYVNr36MxHiQuypVY1vdxDS1wkDRMCva23cpb
+Image not cached, downloading: QmR3cdghjZqAVC3BLvwrspxMqeVXFBZh5LLcHihYTGGaqN
+Image not cached, downloading: QmR4CRB9wSvaMKTCbUWxHu6KG4hUiqCKkc4GkfTbKvhrJR
+Image not cached, downloading: QmR4q5kBtZi9gatwMBFvbYprTY7R89CncgoVVHu779erDJ
+Image not cached, downloading: QmR4rKCfmtJ8zQ3eJMHnWPU79AjY8swnhS6Binh5BUsPV3
+Image not cached, downloading: QmR7EZywA7fCwFBR3LDDYFbkBE764KSK4EZ1dms2pHMe7B
+Image not cached, downloading: QmR7LNvcTbyjQMUEXFoAssPwTg863xJCzKGngJGCC6bJxq
+Image not cached, downloading: QmR7XfMPeQgLTEhFpuG5SUy6NX3ReAE5rzPjwAtPEVcd8e
+Image not cached, downloading: QmR7yV2nLDsdM3EvGBxoNvQ7w9XJtdGcE4urDwZZhnPBCK
+Image not cached, downloading: QmRA4LyhHUSo9eU5wvB4x7VpyodnvH2myak2Eq2vB15pk7
+Image not cached, downloading: QmRAGGmrGUTv75JqGm5pnSZ9NUCUuFgAimX9dBKxdkb5Nj
+Image not cached, downloading: QmRBQHTcma5SFGT2DNY52v7ZzAUswB2EJzuFxsB6LGHAws
+Image not cached, downloading: QmRBuLLXRgLBAkzPoMXzVUKz3ceE1JQuCxov5pNsyDt1eg
+Image not cached, downloading: QmRDxWHf8nHSXFQrnpQW2CCoFG6o8ZtE9FxE5m8HiPJsXQ
+Image not cached, downloading: QmRELjZJDC5WbgAHvFPPLKpRQddu25B5GkJLgWiyiadkZe
+Image not cached, downloading: QmRFWT9LBDewAKKWYykUSvb22k4v4Bs9ntrBGWJDAioLHB
+Image not cached, downloading: QmRGJzZhFeviVvWASUo6knuCodf8hfxGAh3ussycensinP
+Image not cached, downloading: QmRHz6rc555vUayJWaZjbHa3jR4pBMdLUJGBSRcE2yaZdG
+Image not cached, downloading: QmRKeUwCJr7tz6HE3m4XTyDww6PBPzFGYZemwHgv57vtzH
+Image not cached, downloading: QmRKs2ZfuwvmZA3QAWmCqrGUjV9pxtBUDP3wuc6iVGnjA2
+Image not cached, downloading: QmRM19d1JggimQ7VBDNiiKEm9GZZ5UqJui8cYuBB6qifN6
+Image not cached, downloading: QmRM4PDw5Fg4DKgL8Cf1XfBAyiFh6SZdcQ8QNacLU4x5pQ
+Image not cached, downloading: QmRMnPXdMAxnVPAES98jRxxTMaNmbPecHMo4P1vQFMiU8D
+Image not cached, downloading: QmRQAtKj5bToh6k514DsgL6xwLYCEpDTahW3Xvpp53GadF
+Image not cached, downloading: QmRQvfDNLnj1dsvbAhBcggES5VRpjDBNCbBLJmsVUotJZC
+Image not cached, downloading: QmRRM2JYwsbaegvAW2HtiY5ejYg5YGn1iBe64X5kQMdtQE
+Image not cached, downloading: QmRVwfvZhVPGNpnAtDFi4hkAW8FyKaWxWvdv1oJ7P31r77
+Image not cached, downloading: QmRXD9fp5jSwN6wFfyjusYddYEnuMXzDt72ZnbPQ8puW4K
+Image not cached, downloading: QmRYkeD5q8ATyHh1hekGPYQrT6TZSe6u2Yb5WzK8MHo96n
+Image not cached, downloading: QmRZBAtHFvdU5shnp3KT9Xworgc3RRJKtFc5yBdemFfN3C
+Image not cached, downloading: QmRaNRYmM86oBK6P8p92zPb9SDEy8G2oj65fJ55EaydXKQ
+Image not cached, downloading: QmRcTtXdrZNRNpL859WoW7zAv8QuyRAWFA79HLMBsM2xW7
+Image not cached, downloading: QmRcUG1nyXWr9nJUL5VAjMVEu4uRUG8bDhbCNK3QC7apfY
+Image not cached, downloading: QmRd5GbAPuCn7i866JskWWUPiuoUEGeePJqKJasREyhE8a
+Image not cached, downloading: QmReW68CN3gJLdLT2Svx8mvpr62hAy8vPCLQ2xggNb7wsh
+Image not cached, downloading: QmRhLGv2gXhvJtuS2rsNYd5sbqzdFgdscp8ViJWGuhsxk3
+Image not cached, downloading: QmRiGR5LwmYiq6deSycghaGuJy2sJCj9Mt79XVgBUcFxiG
+Image not cached, downloading: QmRir1UJdycoLtLPXpQmi3oG9TnQxmxAbT2Ln9hmT9j23J
+Image not cached, downloading: QmRkKaDLKuJgL53xjSiqreXq8ntUjTU4PFwAzD3WnmK3ii
+Image not cached, downloading: QmRkarjaeEpBgopSdvVBvJ67JXrpvsoFVcRZpc3GwzAcyY
+Image not cached, downloading: QmRkyDvHJoQVGqAY28ubE3HVybPXcfytpkvJjRoZ8YtPGF
+Image not cached, downloading: QmRn6z9ses92V1mGFSWfamVvP9Ewm248M67qwXkWFPCZzX
+Image not cached, downloading: QmRqknG3LK31LFotxH13jDudTNE6eKSDqcdxK7PtJfnWGz
+Image not cached, downloading: QmRrxBuY6yqEdGzTcM1bBtKnG9pt3irERtcseUNGniDgiT
+Image not cached, downloading: QmRryeMv7QwUmdTKfjXyxV563jHocXS7ybf7BddSE9sqZw
+Image not cached, downloading: QmRt8TyXp7A8BeDd9eQcLtjotRyfWFPgiPqaRtiSABMXLY
+Image not cached, downloading: QmRt999WEXJJKkadkXmyjJ5fidcWuCsiWGQDhsVxyKErmv
+Image not cached, downloading: QmRtgkKfSxypFrgSubsRLR9fEwP9wib79d2C2xPuAC6wEs
+Image not cached, downloading: QmRu3NNyr2UbLh2yjy2FH3f3BHrgCJWBdyqu9r3RzM9D9E
+Image not cached, downloading: QmRuNUJ6aKtq8vkuGfFyK6AjiKZ22YnuGQ3zvVVA9RSSNb
+Image not cached, downloading: QmRuUxyLq6UxBq1fN7N1gaP8bQLDyHtpV4SFHyEto55aqM
+Image not cached, downloading: QmRyWPJ6igWXg7bD3kmGv8B3g49wvM3A94wBsa2ukNJQwJ
+Image not cached, downloading: QmRyi9tV7Nzs8fdVLbVYiGQckYcYA9ccSuQqBiscf2vhY6
+Image not cached, downloading: QmRzGQU2vJ76zGgsUkSJyqWBuKemrncCQX7w1YFRu715EB
+Image not cached, downloading: QmRzoubPV68o9mHPJUpKYX1JiVLMuAoZi2VGAECNJzd4zH
+Image not cached, downloading: QmS4WhwUDd1h1UGfGc1Wa48CHRW8UmXwdXdmSgAABM6vxh
+Image not cached, downloading: QmS8PGBpbogLZZCjabmqdk5q1aA91gxiTSUNBzs9iCVrda
+Image not cached, downloading: QmS9thWznUaBHoFacWrPW8eFvfsMUZRe1NCDXvRAVXxejX
+Image not cached, downloading: QmSBGe22Cp8CSbjqqiiCjoQqDbTvhA36KHxx5PUxYr1NkM
+Image not cached, downloading: QmSCruTvTMGqceZz5kuNjTykhMkg6LN9KadXk3EdBEbv2R
+Image not cached, downloading: QmSD8epQNqcDvQEZAL5bQmKdpKsdLmgL2fm1oNjz3eZCW3
+Image not cached, downloading: QmSE4FSS8tmRpNBysiwiZyViNzJ2uZuohi4ZTZ6aCTVR7X
+Image not cached, downloading: QmSE7uDck2rZaEseSTBRMhmdngQTuncbWvZFxApzYbcmPu
+Image not cached, downloading: QmSEpDicrUvSqmS35qBoaRg5KyBnAzTnM9m6z4r7RbdpF5
+Image not cached, downloading: QmSJKoQBswP2wo2yGCF5QEuXUGZFCQri2AcqZVu4SCxrMK
+Image not cached, downloading: QmSJXmHJy6BBhaLscqXqdyjHckr4xfyntmgjPtAJMRnfEN
+Image not cached, downloading: QmSJav4MLUYhVKdS4WzmyXigkyjRgwRd6R5U139qt8z4ig
+Image not cached, downloading: QmSKGWRyS4NiSCWBR7b5vbytPmHnEaor5PMz2hMGMUWwAa
+Image not cached, downloading: QmSLDY1rULq9kLvi9meCZqtZarUZk7hthrDNxKeNUBKwV4
+Image not cached, downloading: QmSLJTiHNNexmk9BrDbbfKve2bgzvidyTLjhr4ckTVkkpm
+Image not cached, downloading: QmSLSsiJ5agPCLgVncBLDRR9gdVKFW6HhXZQze6dYeZyau
+Image not cached, downloading: QmSMkV7YQysu8tDeCiNyKPM26RCQfqxSpXdePkZwKeHHqH
+Image not cached, downloading: QmSP5VNbzCcUVLUts2KVsQCH4o4JQ99YJMpU7mwQeBKPs1
+Image not cached, downloading: QmSPQzg9EEQXuXY6mG459h2vyJ1bdkDZtqRuGApQvHuLzE
+Image not cached, downloading: QmSPuuZPX25JjMFp7bYsdNpQ3X6seRpQsAadkNeBDEZ177
+Image not cached, downloading: QmSQq79tsVnaokayQY1FwDPf6Ht9GYuJCF3eZbaas25QG4
+Image not cached, downloading: QmSRuyU8PpLvYZ2GH1Jyk5vbDD4KFp2hu4cinvxNxekENm
+Image not cached, downloading: QmST8EKa4ccxbds8pmPabTdHbpCwjKogZqvKc5zndRvv9o
+Image not cached, downloading: QmSVdyFxRNNPptjp18Uw2bLn3ehNd5S62TRi7ct8aAhHzZ
+Image not cached, downloading: QmSWdkHVu1SHmi6BniQifjx3VCZiGdgjbjWmeovUJVgEFR
+Image not cached, downloading: QmSXJGwV7pvAJXjaWXN237S27hEntAFD7Cgsp7PBBitJV2
+Image not cached, downloading: QmSZAAoYRE6C81THiq7gYUycfh9kvVrK8cZPnUcvnR19PG
+Image not cached, downloading: QmSbHGKzuxujZPfpoe5h2j5bvWoRoF4meGAwxM6YEjyWp8
+Image not cached, downloading: QmSeXNk7gj8BZPLj6DyA3eyyTG8Lt3XZhiQyBSpNP3jdcZ
+Image not cached, downloading: QmSfSRNNbkMVbQGTgJ7TdZmPti8PYCVseYX9NsYimqxo9H
+Image not cached, downloading: QmSh824Bwyg1jebNePrev6p8WU7ixn74uXuDafR7k6caSK
+Image not cached, downloading: QmSiLNqh1PMzfY5515J6Yp1xu5EMFu64EzcbHUid71Us5M
+Image not cached, downloading: QmSkSSrpirvB1fhyA8BVu3AVryW7iFzo2pHKSA9WaoNdRJ
+Image not cached, downloading: QmSkSZMJv2r77P8ugLXBz2UUU4QtpUzoc1ysqG2ZzdTb2Y
+Image not cached, downloading: QmSmTFVraSnh2ZE7wTavpeujqq4KessWkuAhs5xMUeE7ZR
+Image not cached, downloading: QmSn679iAzK7GZmgCqtgDpwt5DD1NdrFZG6v3JvmLcQJ8M
+Image not cached, downloading: QmSnb1krk6WbW47XpHHKBdHPpMvgBJJ8pJWFvyYzRHxSp2
+Image not cached, downloading: QmSo1Rsme5pQ7MUq4DTtyzZ5g7uWgzsetUSFUya8QfioCG
+Image not cached, downloading: QmSp24UV5bWu8kKnNXEBJjL7sLN5XR2AxFa1srtcs4heb5
+Image not cached, downloading: QmSpdcxsrXUHvEAgVhFyKhfDC9vkhrJjrieoDJfWwei3Pf
+Image not cached, downloading: QmSpeYvCB3da9dp2fiqLd11KMy3cbjY77mi45CjZgnLLdR
+Image not cached, downloading: QmSrXhEqPRSpp58QbJRAcAw3J8AQ5djUbvc8ZdCTKcbRBB
+Image not cached, downloading: QmStJY1oYH9vK7qN1JTNYpMA4SUmcQfZnugDwnWYVdRWJH
+Image not cached, downloading: QmSuTtEeKwAx71epiqV4Yxr8YeumhPtD7R9EEzeqsWKKev
+Image not cached, downloading: QmSuZobyUdLkCAFVKHah4mbjiupsoCLCAHktvxcLtk7YGS
+Image not cached, downloading: QmSvcNNkSQz7LntLQG3v4eGMWUHkAKUA5kEvJczL2rGePa
+Image not cached, downloading: QmSvdr8H7CPe8Kw5esYkxDpG2EtqAbuWgeuyoQeKYygXmZ
+Image not cached, downloading: QmSx8ApSqYPUQKUcuHEuLMx65T5MGtnk9JsA3CgqeK4VaP
+Image not cached, downloading: QmSxppumc4gv2e6WKFwoFirjSYoTyWyKAuzGzuuDVU5Pkp
+Image not cached, downloading: QmSzXZks3o6sLXDrVHDSHe4jfSkXtcteDT57mdu8uD3G3u
+Image not cached, downloading: QmSzaAMYPVHVDD3kwuBfYSJGBGywyhTBZvthejMnT7TpZ1
+Image not cached, downloading: QmSzotmE61qcxd6gb7Qjc95vEa8VcJYVUoK9SbfWuybkbA
+Image not cached, downloading: QmT1ExXMyDUMD7hPhCfue3iP81PS35T777D9aEVYpyP6cd
+Image not cached, downloading: QmT235H5zarU7vTRi6DRGFMGWWUDaBuaEpAqn1HNou7FWJ
+Image not cached, downloading: QmT2ECvGHbKwLHoihcUMaNVsqyYWz7zsZpzz1UyZfAdhYB
+Image not cached, downloading: QmT2JS4uSJnCLERFmaGZtvELTQdYAbWQXsasCvAzhEMz46
+Image not cached, downloading: QmT2TLJ27ZhEWr15hxn4sx1hUnL7CZo4J1R5GVHb5mj6Ly
+Image not cached, downloading: QmT3CsZ3fL5UTQa7HkvjKQPXoLWUEaNDoRFvTUHLJvKVqU
+Image not cached, downloading: QmT4ujbonJoBqsequcQpWdx3ya5ZKJ1yZWt9UaSsmqJ8dk
+Image not cached, downloading: QmT8dNyguim9sqw1yN1MbYESyPpuutbzGQWsrbwHLTw9B5
+Image not cached, downloading: QmT8zc5yVEMFwMHZhQPR4J3y1XQeww5szsn1aRYG3YPx78
+Image not cached, downloading: QmT9UFChFEZgbTVvWvhWppZr93sYmJ4mR3vpPomHUwiCB8
+Image not cached, downloading: QmT9ZhXddjbqYFudGUv7rGnesDgx3aXHQEPyPxDwuEsCof
+Image not cached, downloading: QmTCrFr58EK2aHMbbKLLG6XvHdx2JUDrgHmkHyCh6Lmuxb
+Image not cached, downloading: QmTDFZ6Yts6MXH3t6vK66TK8s3ycgxEAnxdw55fo7STjgY
+Image not cached, downloading: QmTE4kTxhoozE7Cjjv8KgG87dJHhBG4h24EBaBjUQdaPje
+Image not cached, downloading: QmTEbHR7bJVJ2yi1hBmYX85bbfccbQkXpXwFv8rW8B6hE7
+Image not cached, downloading: QmTFKLcxyFurV1Ypv5YFRGmDUoxMyrZXrTYk6f1hdi14Pc
+Image not cached, downloading: QmTGCapZmD2QzY9H1Aohp6B9L9uyUxnbRMDdx1UogPwfMa
+Image not cached, downloading: QmTHBaDk7NuF3t7RcQELc1YvTwECbLqoBwp9Y7RxtGqTTv
+Image not cached, downloading: QmTJUpdnj4d5nZBvmvFAnDmQmzKLgPctTmdJcEXY3qCTh6
+Image not cached, downloading: QmTKeWQZLWU9SM9eMBhDZExibdhhraSspTQ2rUBDkTbhqu
+Image not cached, downloading: QmTMBhkXC9HPbCp8TggrjkjVJwyjPYS1kXfHxDb6w4DXyc
+Image not cached, downloading: QmTPZw9B1DCpod3qDskowvhqz2seVL9cTvq3gQEsqNmYny
+Image not cached, downloading: QmTRWSkoB8iQ8kgKyyJx79LkyDDQ4vBS8Me1hLkvD9CwjQ
+Image not cached, downloading: QmTSrpZSxn9apsR4J3enhPkvWkzCDsS1x3otaGx9w1MLMc
+Image not cached, downloading: QmTTExnZWE6QfNsFkkq92NkhCfGYvMXfpmro6XQKagD93A
+Image not cached, downloading: QmTUU4Caz2TPSCn2HyJPqSDFqrnNaMozM1UxbmYQSAMMYp
+Image not cached, downloading: QmTV2b6mD9kQ1YE6xxKqDd8UgS6efHuvBrH39ofqaKnjku
+Image not cached, downloading: QmTYf3U4yvkkYLWhjXjMHnRY75XKZuJ1GxuEvqsWAenwMe
+Image not cached, downloading: QmTYfXH6Zw3dk5U26XsAn8TNuoGLAXWmggeYyhiH6NiA8u
+Image not cached, downloading: QmTZo86mvxiczmae2jvEeaqZVfTatZzm9w6MDsKnR3CbRs
+Image not cached, downloading: QmTa7G8eK596ruTK3Vv6pK3XjFPzX2QiuLDF8bcL5RcwM1
+Image not cached, downloading: QmTct26GExnWEURb4c6fxd6N6q4dXAjUaEdnFeirWw2o7f
+Image not cached, downloading: QmTdRoFZkaG1TUKbBpK5Npq7UmQipB2idKpFCPHx6ZPMYP
+Image not cached, downloading: QmTdpQHxdvFtwPYQekw3ajpGJxyWjV4fbtuU6nVRj7baWj
+Image not cached, downloading: QmTePYZ7aAjr4WmP4ba7o1bwec6CauDdEjSRiPF3GmVLe2
+Image not cached, downloading: QmTgEMC5BqZe8sib4dvWouPmBAyDzspibjpXegMtz1zBu3
+Image not cached, downloading: QmTgKsutiKcn9kzNffcNS8Q8dvBiTUCQ6YDx9wwFvdd9Y3
+Image not cached, downloading: QmTguTB8uoSBhnzxochUDocryps9FqALRH5Zmh57hLFNM8
+Image not cached, downloading: QmThgm4SKNjCqUiqffDP7hx8DsFHqGvAbGk6AmUAWrzmsH
+Image not cached, downloading: QmToB3zK5oi3hUKxo5fwV2q2GKXcEWVJeohnDsM8RDv5gc
+Image not cached, downloading: QmTpBd52F1PpeGN4QE6kUWTZ3BkzrKE6eGn59eimZVU63A
+Image not cached, downloading: QmTpG4aoCv9nx8sEeHejgfCBuBnhJvKCjr1gpn9eBhQRVN
+Image not cached, downloading: QmTrdVZZyZdcu1khgjYMe91mqkGyjMSgaXPR1MsffdArKJ
+Image not cached, downloading: QmTthmQGs2nJCUpVbcCJM5zuJfxB7Ti2wiP1pPuHsepzZ2
+Image not cached, downloading: QmTuEatu7qt6cgFx8TgLAyUpWTg1rC1JypQUesPTz4thXt
+Image not cached, downloading: QmTwjqRf6Fdt4CbDfkLo6Q8Hx8XkWTaG3uoZbBxwyh8CcN
+Image not cached, downloading: QmTxTFx1RUT1VRNK8N6mY9KBmhgrCkBFYY42XEbdceb6xh
+Image not cached, downloading: QmTyU6qDEVCFMDvWmmsKgRaudhNNqDU4M1CPifguye35zS
+Image not cached, downloading: QmTzcabFPy7NmdGjp19a8gsg9oE7f36ebCp7z1Hpf7VTxu
+Image not cached, downloading: QmTzuYK5oKz2PPirWZD1SrCwrDJJmMDAYcnvbRzMayBGRz
+Image not cached, downloading: QmU2fnuUvU3Yfrne8SPsP6D9eB4NAhZg3LiBAT81pd94N3
+Image not cached, downloading: QmU6HrM58gAcDvCcwWtixcETB8gVtCT2v3w5bJmSaWkfqf
+Image not cached, downloading: QmU6gsRX1E5dGQvosHN7VadSTqxtXzHnrwYyhT1Fb4MvFS
+Image not cached, downloading: QmU7T8yyCBDBHScZ2xFdY1C722iecNsHZU6S5QHL2ZJkuC
+Image not cached, downloading: QmU8ocEssTivqgLXfCMq18fVUToLNVw5nGc5s2cfHCqAYS
+Image not cached, downloading: QmUAtpUqUAdJCndJsTSu7sJBzbpbNidNceAYxj6XLryYVr
+Image not cached, downloading: QmUCNYD8AL2sALSfjKmLvU4eCydJ6yz7UfSXqsbsJAm8HP
+Image not cached, downloading: QmUCTU62pHV6ziyB4yXz1UjFMYG7fHaXfRkm27c1uEAvBF
+Image not cached, downloading: QmUDBLmP4br5fm4RdFte1Cvz6dXHjb6ePcUHYb9ki8aeb2
+Image not cached, downloading: QmUEQcBdGCMMXz3UwMtE6gCJNMNStG3sucpLRrQr7RBRe4
+Image not cached, downloading: QmUEiyuo2XqePwoKsRch9QRS49QRBNJCEXyRBmyFDxcJeK
+Image not cached, downloading: QmUFq9hFZEsBroLynozzLpJSaefdjm1BRNh1uQ9uNNv6br
+Image not cached, downloading: QmUG7gq42z5KvT6YGjsptCYMM6G4YUXZUCwMPXQKo869Z2
+Image not cached, downloading: QmUGH7gskTLTHAPT2wAekxg5ggmkbCDvHmx6ZowA6htwoa
+Image not cached, downloading: QmUHLRJ7r3W167Sk1VHH9ewUEP53ZdQZMct73BRPHDFp88
+Image not cached, downloading: QmUHn6phQ1uTpdCqyoezFTE9KtrsZZWkTANLrWzv4dk2P9
+Image not cached, downloading: QmUKxFAPkEkW4WbBUnGWZ8hD6CFNCvkna9uEAxx6aZiq1t
+Image not cached, downloading: QmULTVW2EgG5NM9Rw2EwdJWTD8RPi97onJet42NYoHhnBg
+Image not cached, downloading: QmUPVGMk6qdb28gsYgfKmDm9oVx8hC7bwsGvG3LeJwRANJ
+Image not cached, downloading: QmUQN2XcHKqaGtTssFWhZ8MVuQKNXUkwDnytpQuwkvKB8j
+Image not cached, downloading: QmUQcbBwMka3APDPtTmBLvghnWuAH4pSwf9ZFCjd58gsZk
+Image not cached, downloading: QmURf4fbzMXfn43qPStAFZ2d5HedCTnbv6QLJS5MrmwFys
+Image not cached, downloading: QmUTkh6KytgwnsMbCRDbHyAEY1RuoBzRJCmTWcs2XJQbbZ
+Image not cached, downloading: QmUUaWkrNuFFp8xii3v9LWQdgp7AAbiYMxNyZLebX7tP4B
+Image not cached, downloading: QmUUmL7mq9HQSaPumsZjG79UqQ3mZhLpiW7ZNvphunuq3G
+Image not cached, downloading: QmUV1WUY3a6nm8RS7Vf7iAAxr68x3oUXGenF4kiJaLwj64
+Image not cached, downloading: QmUVVwVMrKtpMouavuhMLWRhKxDktzzZV2xt32SAH3TFnH
+Image not cached, downloading: QmUX68w3S6PD4sB56zP5rM1wDQd3VcebifeAtcSgz5ptsm
+Image not cached, downloading: QmUXHkjfrP94C577NYRXYGsG2YhmQkMT6H8uSk9TfPegaE
+Image not cached, downloading: QmUXM15E2whCuyQ8NiqHQqs9KxSSpRVgT5hmi6kLKRSBzP
+Image not cached, downloading: QmUZTQux9f8JK2c3ADMmraExqedzJpXNbQZfW7nsB58oeN
+Image not cached, downloading: QmUa3LtAFD6muTcBozQTCufvVM9Y9FntRdnzJcMugZHW15
+Image not cached, downloading: QmUaWHiD7kgvLja424wSkkvk2uVwgVSAFN1C7X36DacAEC
+Image not cached, downloading: QmUaWPAXmCzHGfgiam1msHAzDRpHqkiweUV5T5n9JC9TxP
+Image not cached, downloading: QmUb2REtqeFaTFG5WPKNbqWsseZVQS3kjx2ybTrbXfKkeF
+Image not cached, downloading: QmUbkssZ63B53bnGKSoo7xewipJwXTsBMwtS7KEpXC68Yv
+Image not cached, downloading: QmUf3pLrGzgCx3qcScE1v9oSty56fTgE2wZaVxPYPhXkU6
+Image not cached, downloading: QmUfqwjJgBEt9L7PPZT2fbTMGuGrmACa41uBgXn3xYe3bQ
+Image not cached, downloading: QmUg6KhSXcvQLoF1yvGADimTdgCngVUPoWXTeV2RBsR4aA
+Image not cached, downloading: QmUgw6APCmb2FJFSHi9XoGmsqz5YMNSoxgmj3R1MGkTuYu
+Image not cached, downloading: QmUhBJtEkZYh86Az5HKHFde4XATidFKrQjYKup6PUgCS6C
+Image not cached, downloading: QmUmXuaqUnU5ZDuxcEiR8WVP5AMHhaXizE1y1McmU5srFE
+Image not cached, downloading: QmUqdbWtL5Nvwvt1WtJxMsqTNhKoSq5xUaF6mqTfKWaM5w
+Image not cached, downloading: QmUtjNrvaL8Q58vQsPB7cHwiUc6MYpTggnA5si1LwW5P8k
+Image not cached, downloading: QmUvqgxcQC4zN8PAxJfKzJUiTRo5XELdXHapdb4hQ1VbpL
+Image not cached, downloading: QmUwqq9pwZWr7zuC8zVxR6UE8Wiu8RtGbNDU18LmT5SQL5
+Image not cached, downloading: QmUzBmp4HYjgBcLZWQ6ArZ6RNVVjicxXR2bWaJU6Gswd2y
+Image not cached, downloading: QmUzacpnMKRhw8oT4PBPZqiAq4k5Z9vGQBxUHP8AmYgSjr
+Image not cached, downloading: QmV17MDKrb3aCQa2a2SzBZaCeAeAFrpFmqCjn351cWApGS
+Image not cached, downloading: QmV1rffaDLcm8boZxBDD8FaWWZssCDKg5SjebfzUF7gzAz
+Image not cached, downloading: QmV3GVL5aLaaeLN7YswN2QpxjwZEqgyYKdLVLqDAhn8fJw
+Image not cached, downloading: QmV4Erq873QiKgBuTmuTUzuDhztrSgHMbXKK9Gyyi15aRK
+Image not cached, downloading: QmV4u2T8UxUZyVopHacU7RZBUpKppwpG5FgL5wtqaLRNYR
+Image not cached, downloading: QmV6EF31eYyBWeduRTXxAkW6ZJx7FsUyq825KmZKYrmUD9
+Image not cached, downloading: QmV6WwRguJGfZiB1Crq6PuGrozT19QBnGgoVZS9h5wrePv
+Image not cached, downloading: QmV9p632FFzkSkTHGEwWbk8CtcWF4BokwHhkcoWh4yj5cJ
+Image not cached, downloading: QmV9x5DUThXPmVvUSKEdLeioAbergpYt5GzexrSxwVEjGW
+Image not cached, downloading: QmVALymGfi8eZWn9JvwJyBZQznmUv4kKZdJYkrKGf59F3v
+Image not cached, downloading: QmVBV6vLmZWtq48VfTuCaM3BymK6T63wjnHxJsKF72aUsJ
+Image not cached, downloading: QmVCiKEnp1toQyFYsfVDifrSCtn3sRwpkQUiN7wLvrkGRs
+Image not cached, downloading: QmVCpnRwWmcgTTyjYv8a4VyR77QngwrDc3VRqXocuTEjLm
+Image not cached, downloading: QmVEL9154cFhRj92JYN9mjPakCZPRg6Ym57DWF5nWG5V6H
+Image not cached, downloading: QmVEurEH4Qn16CCB2uSxnsDEwTGWfvC55ba9ef3hedZpJ6
+Image not cached, downloading: QmVH9rZoLm2iJnGePrhp1c8aXve2NrQ5wYMZfMoRvu1m1E
+Image not cached, downloading: QmVHF6KBR5viqWpBWdFKRsK38Mt63bsLVBFvqdXsQdginS
+Image not cached, downloading: QmVJ511tZjW7rgpzuevEzKBri9Siv1HjT4QkqkiKj3TX2w
+Image not cached, downloading: QmVKoa3XsthpJPGfiMNNirsS1HMz2UeVYzGcWmLQMxD8pk
+Image not cached, downloading: QmVMa6wgU7waFJtRiu9jciNYzJxtyVwbKY7hCSpRnEUbxp
+Image not cached, downloading: QmVP5jCbPpJsdjFhdGG8HpbrM8RgxxDsqd2WvxgSBpg6hg
+Image not cached, downloading: QmVQZc4TRjMaHfiRhFx5qM3d8q1eyaUwVT2L6eajq1xEnA
+Image not cached, downloading: QmVQwE8hQjzmvDh99HMehM23vthrbnYeqTYZgmuYyBMpf1
+Image not cached, downloading: QmVRFDMva9S2GfbuXgFXwnJStL7USuDMiS4yzohYiUrvSJ
+Image not cached, downloading: QmVSNZhaRwAZA7PXgMfz4UtQEXbSeJrFnGyQQwzn5UUTGd
+Image not cached, downloading: QmVSrNckaZ6DGuGVLgLQjKLQy7DpbjdngCPHAZDNV8X4KK
+Image not cached, downloading: QmVTwiEXGHRBDMjLxadPHGXTNjc47mvH34XSr2bD5uxHwe
+Image not cached, downloading: QmVUYtNnHMUEs89dH8hjFm2brhGSayHimamtUvPaMUR7Bw
+Image not cached, downloading: QmVY8zQ1dhRJ38b9sNnvajyUjQcw5kSPZgzLnncw75MCgN
+Image not cached, downloading: QmVaRwmieERGe4XGfta2NCZ1zT24XeprHUtgnHWhwFb7bm
+Image not cached, downloading: QmVaiWChMcSiGh6SykqrD7kq2Vfy5RAwWrexBE15LnFM7s
+Image not cached, downloading: QmVe82czw1m9rKgonCbWvAL4dTpcQcF6HDXo956XMRoW8t
+Image not cached, downloading: QmVfx99szT9DhpJYxKtGDZDv7CEeuGnGnRiAgATwKr1QNb
+Image not cached, downloading: QmVjcKuaEV5aLsynnBHYKhTGFHMUiWiVsg1WxwaVboM5EV
+Image not cached, downloading: QmVk2cR7Vb1i9KnzPtzCucJECnn44MVSzTSDbdyUaueKEK
+Image not cached, downloading: QmVk7wt1iZipN6jKpq8zCPrZhAVgiqcevKEgPE3GdTipGo
+Image not cached, downloading: QmVmBKpo2bRsBfCf7scPWuXCGAPev7tLgDMXZmWsCXrunz
+Image not cached, downloading: QmVmHSEXiLH3wa6GeYnzHR2KjCMgzuMc8MeDreC6mf8on6
+Image not cached, downloading: QmVnifzcDT3XaKogPDQH7QajMUXYd5R4kCymCAXbxoLV5k
+Image not cached, downloading: QmVo5Kk5kNQ7qrDHM6VaYxwnqeHn7udKpRAHTLfMCr8HnA
+Image not cached, downloading: QmVpc4ZbtBLPvDrAVvpSB93MDRG6vFgPhsK5TXnvDyUU84
+Image not cached, downloading: QmVqgCtSZkZdXi9YLS3uKrbKDeBpbp9PYaEvVdQMEiA3sP
+Image not cached, downloading: QmVqzJqyUCgSz2YAmLv7YcNYqDv6y3LNe9g75VZvxJbbm6
+Image not cached, downloading: QmVsLyDyQUAJKmm3hK9j8C6rvt1HtgPLn3kKcy5SjrFM9E
+Image not cached, downloading: QmVt6U3vjLVxJUyTb1mXQPq8kSoEwd64d65bZJChnjA9Ya
+Image not cached, downloading: QmVudr1kQjRkxmX6V9vxJvK1Z8fk6Kq876gRTarHZq3FdT
+Image not cached, downloading: QmVunnSzk7tHwk1nLc4ZcbegJ1ZQSANT1Mu8xSB6GHs5DH
+Image not cached, downloading: QmVv72UGALn9FUY3PYU1psa1NWWntr1pwXXYkTfBx2Kb8i
+Image not cached, downloading: QmVvVoNA1JrrWmShneiSTMxrJHst5vm4h6hqoTUuq7uXBL
+Image not cached, downloading: QmVvnX39Qd4bssKyqSqPDaqiFpJBx6QrR15Y7DWHNQnLzm
+Image not cached, downloading: QmVyoi79qYGkwKGoeGnNTYM77ybxDBMzXrbbxd5H237nMZ
+Image not cached, downloading: QmW1k6qb96TbG8nBfr112hN9tT8nrAX8B8kARQVe3Gbytm
+Image not cached, downloading: QmW29kxvNZU4a3ffEtR4i38jCyw9QXDTg4bNr5DqxmQRtS
+Image not cached, downloading: QmW2X99vVKjFAV5YAm4pohg7hoWk1b8QPjryMsvbWgCLSX
+Image not cached, downloading: QmW2YvJMTywejtKqb1qyamzHZw2mC2UWXFg3FXCHXpVzPB
+Image not cached, downloading: QmW2fkiPDo5G5J458B5HCUhsF4mf6ERkvLyFqSqzyLsPVW
+Image not cached, downloading: QmW3RDF8jT3sNv87auaCbMc1ePkGogMDrfkAbVNbFovPMW
+Image not cached, downloading: QmW3gx8DzScMi5qkzXfRDQWLzQikoYcoL4DZph1jBasa8R
+Image not cached, downloading: QmW4Fvo7utrSaTqmA44GRF4X7KCDFgiHWjohgLLgZciPok
+Image not cached, downloading: QmW4eppzUVQrzA2xwdNSKxC37F9KfkLzbbu1QQm4joUjet
+Image not cached, downloading: QmW5yQaAeobguUEFrD8dmMG1AHRtUdvnWzDgXYSVwuuDFQ
+Image not cached, downloading: QmW68HPMN8FmwCCRjg2iJeyuPSfNs72vmFoDukBJxZjzY8
+Image not cached, downloading: QmW7eUceuEUp5yzydZP5LYeBMdeEu9nPoH4eQ9SASFBQ2k
+Image not cached, downloading: QmW8DCbBbu5LvPUxfR2ECh7Jii3zSYDfHjnhmacAL2qud6
+Image not cached, downloading: QmWAaam3epArvZ9FRTkz9D2mXaS1nLK1yraHAYitDHPt2i
+Image not cached, downloading: QmWDcEJJG5WCixFcUeLMP3PHYBUqcNLsSh68um6gKiZ9vC
+Image not cached, downloading: QmWDh2z6sKkWRHpbqe7yZUKFYc3hYUeeyhX9Xac4VFuRDE
+Image not cached, downloading: QmWDtnQcDNzVxTdu5Ma6Mcq3RXiftyXi2aBsjAfhL7zmhb
+Image not cached, downloading: QmWEwsC5Z5QNsEThJ1KksAw3SDAgywh9iaTzeMhP9yYYsX
+Image not cached, downloading: QmWFcpP8zSLdZmHATgAqexzKucpUZ3RqcvTgTkqcvDpq1f
+Image not cached, downloading: QmWFoWhDgtmNnh78CnK5ZqGum9HSiqxMDVUQKmkC6Smo6i
+Image not cached, downloading: QmWFtaf2s1c22t7MidmcjWTv62CbhjYdooM7Tsd9b2mnff
+Image not cached, downloading: QmWHtuLTyKR179CRTP5UqkVMiwGKkYJeNXyeu8d96BhLa1
+Image not cached, downloading: QmWL5bBJiaY74dDAKLpUdRUWv6SV5nzN35WyyWTNSnsBQB
+Image not cached, downloading: QmWL9RjrqRyA9f1DCUVgUF2H7Rv9NoYwMhGFx8tEio8MXN
+Image not cached, downloading: QmWNKywfobRpQhmvcvEEnURck4Giju9xq19GH3ox6fXvZE
+Image not cached, downloading: QmWNL8B6VnhN1cBnhV5KG1hLLLFhk9QTaVjKcxwmdgjWbW
+Image not cached, downloading: QmWNRhgge6w3PxoCWFNEJEQZRHPoJpXyAZqejogK9mZAgb
+Image not cached, downloading: QmWTVdHCUXrCyHMBrwWZdkyAsnaxxYg8zCZyFXtYeu8ZZP
+Image not cached, downloading: QmWTxUnwnhkhiDuJkL44Ek26s6vfYx3gg54M4pcHxgTbEm
+Image not cached, downloading: QmWUz1qc3GVedD4MvR169KBAQ229dQgG75LWxLh8NthXXy
+Image not cached, downloading: QmWVRku1a4HdjFAWJA9ZpArZZqdTkNK6y5UC6LiQ3PHJwf
+Image not cached, downloading: QmWVnTLsaXbJ97U1SgftausjLPTvwoyBMN8dcg2PG9DK8Z
+Image not cached, downloading: QmWVxiWoYPi44ovvV78npYcodn6j7xTLr68j36TkRshrvz
+Image not cached, downloading: QmWWfcThRDhzmAyuRFMidVgC5BotBXXMnZTv7gPfHDfwMR
+Image not cached, downloading: QmWWmNPsvKM6VEo2abmvxshi9qmDWZx24cSvj8F5eT7DG7
+Image not cached, downloading: QmWXFMzfSzfRkLhsN1vL9tpEcyxe3T4JfAKXyazSDmQuU3
+Image not cached, downloading: QmWXWGbZMrLSiWeJSaQhqduzS1iJaKvHWTyMB49sbqRnfB
+Image not cached, downloading: QmWazVtBADjUca4RehoDsSyV8D8BYfr1xXH99cFJRS1QS2
+Image not cached, downloading: QmWbH95GyJUoMEG3iG8zT1FsRBefYzYqhr6wEeXMaVfpK6
+Image not cached, downloading: QmWbZx1c9cS8t4G7VLD8nMpzRiEqeXPBYvDG5LA2p8sCZQ
+Image not cached, downloading: QmWcFKpW562wxUFz7yrz2iLTfwK1mBzEH7ofNAzd2GQ4Rs
+Image not cached, downloading: QmWcWKB82oSVSdcxaiUdN6EjQLk9vy6g4awqAKfuMSxpZz
+Image not cached, downloading: QmWduCoNJHB5nRH42FduMJxoNWXpBPjVEwWvVk3E6wMt14
+Image not cached, downloading: QmWdzUQxi3GTRsNYnsspY3JuV79F1gCGa7X1XGKomqCcCN
+Image not cached, downloading: QmWg3vnoaQXrA7SqLWp3uduvJAEuh9wsHpyLGsCUVZtk8q
+Image not cached, downloading: QmWhBtGnScQhksBoEmh6CFusAuSFU3Fo4zYYnUBkx3HNwr
+Image not cached, downloading: QmWiRT492bJ2ZNoAibaq5ws52B45f6JDhW9uVdyPDy3jXV
+Image not cached, downloading: QmWjE9H8iknVjsXHfAhmn8RwbxPsBzqgreStpbJwceitgM
+Image not cached, downloading: QmWjcdab5EjrwQL8xddqoYik1J5MrzwoKasH1PEe1tpT9d
+Image not cached, downloading: QmWjsieQcx9hvaC36garWijveYfohne5R29rpSHHZPQ9MG
+Image not cached, downloading: QmWkNXizC69Nm7aT64qvUszbTwXH9VocL37AVvtx3jofNc
+Image not cached, downloading: QmWm3a6swaWv6614Fq1e14rnWLgJmjUE8qMsW8QLUKLNJ5
+Image not cached, downloading: QmWnNF9sVF5vtd8pdvaTUqsBMKWkpchXgDP21cqeu56Zis
+Image not cached, downloading: QmWntrVMJjmhQPKy4tTMN8GGtGwKSrByV8yVsavwBJB263
+Image not cached, downloading: QmWosXRFLoLP1zQWN5NEhzP5mwqsisridW3sdW79yAVCrb
+Image not cached, downloading: QmWqFkHC4F7jcQqX2coDzJQBRZXg7abAxHezNyB41THq6f
+Image not cached, downloading: QmWrvLjm3xBaBcniqR4JJHwh9KuMwfhRriRoAubrmaEpBr
+Image not cached, downloading: QmWsbhAXFAy8o8zJgCAXJYmD1UG75sjwQy5MSj65f1ad57
+Image not cached, downloading: QmWsw7peKh4y59Tcx8W9t2btif5puaPaowBhoKwKTUE7s1
+Image not cached, downloading: QmWt62gG7ZnBfMPmDV8bqVUJwFTcaCfVc4Kku27jNgPm95
+Image not cached, downloading: QmWtzSBVYjKKfDcASjwVUSQ5ogTeZusYda8u1Q7hb2Ek15
+Image not cached, downloading: QmWvQc1c2Yf22khmHg3V3kaZoiChBQ28USq3EwBCGT2zXp
+Image not cached, downloading: QmWvQd9a2wfNemVcL5mnDeWxcuxs3tmgk5KM43Cz4WjE7B
+Image not cached, downloading: QmWx4pGuvWhGnp5pVxGGJDQS6C352ie4vA4ZYBKsMnuXhT
+Image not cached, downloading: QmWzZsWrNUsHfcfRn4KL4BLgbWNX5VHZmeSRygh97EHbAq
+Image not cached, downloading: QmX16WWZaPjYU75icpmeFQNUTwywCyNDF1xckx97VMGxdT
+Image not cached, downloading: QmX2wTVnoBhFcqubCCNJiwiUkL67jotbSW6u9cXVGSGYjg
+Image not cached, downloading: QmX4F3qi6VUfS1WABcUUuCnEkSBBrTcJEsPt9oEEswLbL8
+Image not cached, downloading: QmX4rfE5bR91DHSVkkQ8mRqtwXe4waDbmDeaA58fg5xq9X
+Image not cached, downloading: QmX5B4PBG4MGWguEKb7p72KpmRPidJYG4CvEdf3PejzVUS
+Image not cached, downloading: QmX6mAxeeQgGj32FPYwSdTo7N2K9WwrQx6mQ3SwqrNoD9s
+Image not cached, downloading: QmX7D3sTsAHy2r5SwDcm75Fff4rFZTyJs8iBXVmiKtKare
+Image not cached, downloading: QmX7UsRmjNk374Pkjh3zMc96Xf3tQAGgZR8ddwPPmK9Foq
+Image not cached, downloading: QmX7yctuGh5inX6jCiGoWyXJbXV97XarLEBw7y4q6YsNVk
+Image not cached, downloading: QmX98WynM6aRP6ZPLbeetFVUbqFK5VFtCsHB1reu5ZkpKx
+Image not cached, downloading: QmX9KYSttbR5VCh8yMowPLSQ9GZVy3B6d1jU1JNpYocyGP
+Image not cached, downloading: QmX9dzNVBJ3cEDc3UAazxUFSsoBmiR5xPcwHyTzuvAJUKA
+Image not cached, downloading: QmXA72g6ZTMRhwRHecp8mTCyzzb9HCDcEJX1t4ptUF9fBo
+Image not cached, downloading: QmXBEppYdxpG1cgqcLJwkg2knhiCjKZbqWeBQXNoFz5wAB
+Image not cached, downloading: QmXCSnaV1NFdAoz9vQAuUz9gQR2airEmNyucrH1MzkkXrJ
+Image not cached, downloading: QmXDkmGG8894LpxKFKj93GCPuBbrTWhbGhM7tXncL9adAX
+Image not cached, downloading: QmXEQH3AoWs4u1qgxGb8jwzyUyeqFASacxEqNXQ4vQnwH6
+Image not cached, downloading: QmXF5PNmuuPrx4SVyfztd6XPfYvNpYQWK2QABbaab6iYjg
+Image not cached, downloading: QmXFJRakNCF7UHg3rxe2mHmdYVJ71dZsyyFNA4Y1PSGFvd
+Image not cached, downloading: QmXGPucfzyPqoXP8nZegQJz1c98PeMDN9zZyKDmn9oXVZn
+Image not cached, downloading: QmXHzSHKjRzJJGFMEjJYmxoFooy5qNXspchGXSFHjXz7Bu
+Image not cached, downloading: QmXJwumCKpYzCVBrDwhJgoFo4j7vhVSE3nBj9rH2Cbtvrw
+Image not cached, downloading: QmXM63mKBpm5v2E6ywqsJZiV4S6UyC4kKnzGDDEsebcbTr
+Image not cached, downloading: QmXNpkVBcZUhxHkQEvJHdmhk896Eed6FiTBcsSFXngMvhj
+Image not cached, downloading: QmXPyz4c8bdPzU3MahNd5eV7CPpMhRQvcHsxiWA66p8R3J
+Image not cached, downloading: QmXQ16zcnouJbeb7dmP7oD7WmcwrxBxsuptMq23RiyoxD6
+Image not cached, downloading: QmXQTQrbvGtoyZr8ozfSAzbdBFiSdnieBtfzn65a2Q3UBz
+Image not cached, downloading: QmXR2AtUDS4BfM8KUjHHP4crAMBCjF5GcBT7WgVkTmMPge
+Image not cached, downloading: QmXRCbshQbRJP3wct77QChi2iv7JugH4RS5i73d4eiVtzq
+Image not cached, downloading: QmXSWLvqAPYZtbfhGBsgL9nSj4XiTXHNgeDhxGaKbL9Sbj
+Image not cached, downloading: QmXUD6eKXZJ9rnS46c1uNY6Gkqf8puPmtJ6NYoo1gmsRBu
+Image not cached, downloading: QmXUHMiihker5Q4gTF4SUqqRYEHwiBA6mosWJ73PxiX5Wg
+Image not cached, downloading: QmXVJQfECogyeNyCGwyRhdxAS614j3uedbQJsjXMjE4Gu1
+Image not cached, downloading: QmXWmHdqkmaSSYeRasPxhE3ZXf8SwESXv1fRLDEGLwjSrX
+Image not cached, downloading: QmXYU7GCrggwvY7YMPXkJ3CQfNyhiDsU7DmDWeWhvtQqTd
+Image not cached, downloading: QmXZHoNyvFmTGDaXaycXtX5p9BqvdVGkS9R8Fm7Km8qzDf
+Image not cached, downloading: QmXgXYNwoJmzpxqkiyVB1tX9z8Qw2LNuzFgZ9ABRYqHVST
+Image not cached, downloading: QmXhZVFYMiP8Sn7ifP1FoUyDswerzuNJ1G3d3mWdVijQsn
+Image not cached, downloading: QmXho4nqa3XSp4CAzLsyGjWU1tnAVwW7hngVTJJvwnEeJj
+Image not cached, downloading: QmXkQaArN1c7tBTswAFPdUT7JLzKs5Rm1tSBUoad8KyqGS
+Image not cached, downloading: QmXmrJt1cvgL3x6o2MenjWk6De9vTwMxZSvQ5Ec3pNP4sQ
+Image not cached, downloading: QmXo4bkHH9joJyfjSYGN12KifWQdNT2nhxb9HpxWoakvnW
+Image not cached, downloading: QmXqp5yFaAfMX378Qkwke6QHeftH2442AbhUmBPVBAi8YY
+Image not cached, downloading: QmXrJ9kTQD2Jtg7KPW1d6TKpVHPyVWm2eWvRKHvQ7Jeptg
+Image not cached, downloading: QmXxMydi4LW8etgU2U9P1hgx69CX4GEVaM3TYMuo1QfXan
+Image not cached, downloading: QmXyPdmQzDnBU15FFRFmZic66jv9ZJY5tBvoJXou313qxU
+Image not cached, downloading: QmXzLD2vUYp5apQLhuerf4HjvHncXfzmn4RZ8AxF2T1hTP
+Image not cached, downloading: QmXzhykSTeq5BZ27a4ue4jqie4PFJiUhj36bDvL3eLK5cj
+Image not cached, downloading: QmXztgyZiJjFfV6vrrzwVAyCtu8XrTtMYwU8vsESAs8Aib
+Image not cached, downloading: QmY2M8s2Dy5XSPvjJHg2Xee1d6vkFfmNEtGLRbZY3DMoAT
+Image not cached, downloading: QmY5evJ4sxczzt6PzQeKJLv2XTQEttjHGFAG1mzyd4QFpL
+Image not cached, downloading: QmY6eja67B39F3BvsXf6XFnbDAgdLCdBNJhz74XwXAvz7q
+Image not cached, downloading: QmY7eqUa2cATwDAgzh4vcn97kBpTGvEBjfPRmvvZBEdL2L
+Image not cached, downloading: QmY8isUQB7uMeMoMthwD37oCmEepcoy6mm4yL1xYxYu4HG
+Image not cached, downloading: QmYBSJYLFbmh3AFoqXsMCgYvXC8xZnTWjwYRFK5sATZQo3
+Image not cached, downloading: QmYFr4cZZi3qcnBRQdvGe4wB4gVEZGN85fjJMuwh2QAvAD
+Image not cached, downloading: QmYHsJQxhJrnDQYKoT42giaQCgVSn2k9kHgDGdrz1wcdXq
+Image not cached, downloading: QmYLJSrvef38EnGuJUS6kT5h1MtJNSyYTJdx7HS6Wp9nV4
+Image not cached, downloading: QmYLJTZVmeEzqGgCiR6HyTLBiKRM7JWm3gn6e9eGGLdiwH
+Image not cached, downloading: QmYLqxGiMpu5M2RDincBG1enU2rtVnupRwtYZPFqFbkGdZ
+Image not cached, downloading: QmYLva8L54P4AErzHS3ocuhXhDNjMi7iAGuYusnGW4fz1w
+Image not cached, downloading: QmYMsdMuUMov1qA5YmU5xt9AdbgMqf2PT92ogfx1GSnmBY
+Image not cached, downloading: QmYMx4XhTXKd1iBmW3qCoEMTCsef1E9YVtJzprcZf2fLBd
+Image not cached, downloading: QmYN49KHQfMxKgxL8EwfGjcQYzdCvgm4KiBenbQSePJhBF
+Image not cached, downloading: QmYNvySY8Z6mbnu5FVgbGpZhipYgcWMt8yUtUuoZMMXQpa
+Image not cached, downloading: QmYPptLg4NQUos6BGhQqh9ZAyyiG7MrKK3YKGqnUxvNUYc
+Image not cached, downloading: QmYQNUZMzQbyZcHmtFwNBbjmYScKiUGYATGnNt3H6vPEt6
+Image not cached, downloading: QmYReAEretHaAuYb9CPguz7iGCdf4dRquZiezjQK4pdL6Z
+Image not cached, downloading: QmYSPzGiRKUBm1LG3H8VnKF1cBFenqn1iCYQ8dFpSL5pjq
+Image not cached, downloading: QmYYnemNjPSbstUs3L4xLDtbU8yRf1WcbWTScsJrr2kgrY
+Image not cached, downloading: QmYZveSAmXPtN7EcPzMVP11qDwQjL4f5uiMgCmPwLbxene
+Image not cached, downloading: QmYbLjg7RBZvDpAB9Ei8cL6mtKiT9WiHhoUbXDXhQW74tt
+Image not cached, downloading: QmYePJXbdtyojGzPLZe5nNj3THCjLrTA7gi5RggA4GdfNy
+Image not cached, downloading: QmYheNveQaY8fANVPUwC66ExFEigRD4YdiErTv6BATfkdB
+Image not cached, downloading: QmYkcxxE3whkUfzSoakkBaLfN7rVfCbsDQtRjJvbDycgCR
+Image not cached, downloading: QmYkjY8p951kDATDufdGCYh5B65DpgLyeRG6AJGzombAKJ
+Image not cached, downloading: QmYmPz98J1T3abkH2wT1fLRUyztV1Cqrh48grg6eHmAsZn
+Image not cached, downloading: QmYmeERmavJF1KzJkeRvwARAxEBZECwprMZwg76Ga9CZJi
+Image not cached, downloading: QmYn3aY6jTnXBL4rnzTcCsLo8gzbsf45u92o4TbXNFGD7k
+Image not cached, downloading: QmYnLXtyQBaYRARcg9b31K6FK7uGAG4mmw9zsSsfBCL5JL
+Image not cached, downloading: QmYnqatqaeykSuFRRtbLghdcqvC2hXdDyVs6e6ooKTR3pr
+Image not cached, downloading: QmYskM4BvxC9iRHDuvE6yFPqzk4osSoCTW6aeqq6FDFBhg
+Image not cached, downloading: QmYtS2KfuoMm1immRAtDjqhHQhd37saL27vU8GPPnAR1mP
+Image not cached, downloading: QmYunSFAetxJ31gNY6W8TBNPJnQSzH2vHHV3ASV5frjcwQ
+Image not cached, downloading: QmZ2pnKKSK8SNGV75U4BLENfB7kgYC6xV3wMAkgtgdVzGX
+Image not cached, downloading: QmZ5GdeUBTBmPq9cejyyii36rZCMCQDpNvPtEGN1onwS9Q
+Image not cached, downloading: QmZ7kevGYCY4psvyeDeVxkPvA3ma8sF5w9CZsjfNGXg7f1
+Image not cached, downloading: QmZ9vTAzDG2bYvBdiZU1ZPekgBdhHVvW1Fnf6YVdG6RePD
+Image not cached, downloading: QmZAjAjRBz8MeJstfzZsQcS1taFCNvMQwF1P2n762nCo23
+Image not cached, downloading: QmZD2VAU6J4aZrsyp4BHwcS5o9d3faYLwiK4K47NZxt5pv
+Image not cached, downloading: QmZEHR4fHdSoRZSV8WoSyvs1c5psvx6p6QhmmhCaYwde7h
+Image not cached, downloading: QmZEWhX77kpCRvyoakWqYiZ6Uz1Kek2ceRjkrgscnKueFC
+Image not cached, downloading: QmZEtjGP2k49s1ty1rJSpAUx7R7uqJoVTzpqQzLGvCS4zy
+Image not cached, downloading: QmZGT7Sp8NQ7XjnNsbxc82m3eopZsYMkedTcrHEj4muqVa
+Image not cached, downloading: QmZH5hm1c4WkkKrkTqZyenSNonxoC6F5ddfwUCMT1oi3uT
+Image not cached, downloading: QmZHgH72bNLyYywrAdkhDDzfardCh4vWwFva47hXgVeswJ
+Image not cached, downloading: QmZJRLQ1d9UrcCQQHEcKZ5UhpYF35hUESUBaymKiodcpoW
+Image not cached, downloading: QmZMVSduciVYw5xt29WZe5P6PDCpBJVD3K6LeNUb1nzGzL
+Image not cached, downloading: QmZNuZzE5HqJLJw5jLttRndVUYYAVKUkDijYAT3R9otZNP
+Image not cached, downloading: QmZPMxyE6Y9Rum2pnsRYkSJMf2KPoLRjCEoSKGhpxCgn2K
+Image not cached, downloading: QmZPWAsEXWR6gHzTSPyoTaeqxY82MwWmXkRdEXMgBMYbXv
+Image not cached, downloading: QmZQ1ufnzkz4MQ9UYxk9cR3Uxz2wECCKXwJ59TYC37Vxmw
+Image not cached, downloading: QmZRJXwwSju7pm78uvxWGeHV24nfosB586GFnfsJsoC33P
+Image not cached, downloading: QmZRykRy6yEZb6bLnY1j5S44xEX1GX8a4e1CVj7piw4xpx
+Image not cached, downloading: QmZTtshmebKYyiNaHajtGoFcWasYNm8PhjWEV81Kn3EhZP
+Image not cached, downloading: QmZVbFygn4RidpHjzD1tgVrn75b4mxHdH1pktyB8zv7UvZ
+Image not cached, downloading: QmZWMCxpp4qETYvRsMQSJQjgwL3XsTr8vtzqAfv36MMMrs
+Image not cached, downloading: QmZWch9V4AgxN6ruH9ysXJq1JBXaSPa8RbXgyQNLyAxMgg
+Image not cached, downloading: QmZYphwYKiX1VWXL6FuhdpuurcR9RbodCCPi4atU9sMxoq
+Image not cached, downloading: QmZYwKMQGSA9EvKrDuGwP5jeBpmbA5U4Nfz85WoCKzNAuw
+Image not cached, downloading: QmZZvfSkLAxea3eD5YD82s893tvW67faFkqd3PTLHMFezL
+Image not cached, downloading: QmZZwvdMWJw3SuxpbBKukqipLxbthnYizff9NtKv4NLWMj
+Image not cached, downloading: QmZaB4M21rdqUYN1w5djfRnEPyimUXDYv9BWC5gZyQkzga
+Image not cached, downloading: QmZaW4eqEGQUfrvWxdPzAm1F8JEHrQCqZyM4NaZCR4Gkc8
+Image not cached, downloading: QmZbJKA1GAsjcgBtUzaJd13g1hdLacBj8iT4E6xgqjiV9T
+Image not cached, downloading: QmZdxuK4XLWeWmSn9vjUhxchTjyawaU5PK8VEK4oHCSiYx
+Image not cached, downloading: QmZef7o9cFz6qxUpB6fhLiaXofHtMnYFNy5S99Pj8gfEDA
+Image not cached, downloading: QmZiDqdDWgJsqhTUkBPdUx7Lbvi2EmRRXcdcVvWMLTiHSv
+Image not cached, downloading: QmZoyPuJqdyGw76Ch4CFYR9SEH3dZqvyAmGkx8GaMNSAS5
+Image not cached, downloading: QmZpxBvG3WmoTpdN7E7wQwea93cBZGzfmRt7GxoMWKoC6x
+Image not cached, downloading: QmZs7WKZviKCqCyZNquCSvE9HNWLggMxJBJsufyjQTc1jR
+Image not cached, downloading: QmZt9NMKDDk9BC8jCwLPGgD2Yg9H11twxQZHR7tXCUXeYH
+Image not cached, downloading: QmZxxz2Kn5N7XeXf8m2GkcZSAxKtNLmMm4TsyiaGxWQK8a
+Image not cached, downloading: QmZzraDiPjbNyebt21eNkePdZTzVFWcduFkD8vdqatAyKn
+Retrying failed downloads
+Retrying 35 failed downloads...
+Retrying download for IPFS hash: QmVsLyDyQUAJKmm3hK9j8C6rvt1HtgPLn3kKcy5SjrFM9E
+Retrying download for IPFS hash: QmWm3a6swaWv6614Fq1e14rnWLgJmjUE8qMsW8QLUKLNJ5
+Retrying download for IPFS hash: QmRzoubPV68o9mHPJUpKYX1JiVLMuAoZi2VGAECNJzd4zH
+Retrying download for IPFS hash: QmVQwE8hQjzmvDh99HMehM23vthrbnYeqTYZgmuYyBMpf1
+Retrying download for IPFS hash: QmXqp5yFaAfMX378Qkwke6QHeftH2442AbhUmBPVBAi8YY
+Retrying download for IPFS hash: QmRrxBuY6yqEdGzTcM1bBtKnG9pt3irERtcseUNGniDgiT
+Retrying download for IPFS hash: QmeJdZkf53HZ7Emx9qv5zYwnckuR7tKGMNPhuemywecE9e
+Retrying download for IPFS hash: Qmf2YEhg11CCYJac3DuDwt3nAXjQmCvKr8YWMvF4Hx99Lr
+Retrying download for IPFS hash: QmSLJTiHNNexmk9BrDbbfKve2bgzvidyTLjhr4ckTVkkpm
+Retrying download for IPFS hash: QmWNKywfobRpQhmvcvEEnURck4Giju9xq19GH3ox6fXvZE
+Retrying download for IPFS hash: QmTzuYK5oKz2PPirWZD1SrCwrDJJmMDAYcnvbRzMayBGRz
+Retrying download for IPFS hash: QmUfqwjJgBEt9L7PPZT2fbTMGuGrmACa41uBgXn3xYe3bQ
+Retrying download for IPFS hash: QmSxppumc4gv2e6WKFwoFirjSYoTyWyKAuzGzuuDVU5Pkp
+Retrying download for IPFS hash: QmS9thWznUaBHoFacWrPW8eFvfsMUZRe1NCDXvRAVXxejX
+Retrying download for IPFS hash: QmdzqukAKE4G1s3fnxQq9Qe5XJD8vmUiqfFm522JAwQNpi
+Retrying download for IPFS hash: QmYnqatqaeykSuFRRtbLghdcqvC2hXdDyVs6e6ooKTR3pr
+Retrying download for IPFS hash: QmNRtUrMfRHoBdhKppwpbt1VjdZWzdveZfnzawRTYApa2V
+Retrying download for IPFS hash: QmcnXe2nkRBddevyJ4Yb3Bf5jmjy3WA8Lm45eyr5ZnMWPJ
+Retrying download for IPFS hash: QmWsw7peKh4y59Tcx8W9t2btif5puaPaowBhoKwKTUE7s1
+Retrying download for IPFS hash: QmdCSpBAmXbPkoYFvuoqhHDRrGqcHiqDF7jDCPPQRamyLt
+Retrying download for IPFS hash: QmUXM15E2whCuyQ8NiqHQqs9KxSSpRVgT5hmi6kLKRSBzP
+Retrying download for IPFS hash: QmWhBtGnScQhksBoEmh6CFusAuSFU3Fo4zYYnUBkx3HNwr
+Retrying download for IPFS hash: QmT1ExXMyDUMD7hPhCfue3iP81PS35T777D9aEVYpyP6cd
+Retrying download for IPFS hash: QmdwepYLSc8M96t9xUpghx5NhtNHHcZg2PxP5pPCogZ8Hr
+
+========================================
+         MANTICORE IPFS Mirror          
+========================================
+  (c) 2024 Manticore Technologies LLC   
+----------------------------------------
+Welcome to the Manticore IPFS Mirror! 
+This mirror is designed for Evrmore assets.
+----------------------------------------
+
+Starting image downloader
+Initializing necessary directories
+Cleaning up duplicate files in the images directory
+Starting duplicate cleanup
+Deleting duplicate file: ./data/images/QmYMx4XhTXKd1iBmW3qCoEMTCsef1E9YVtJzprcZf2fLBd.webp
+Deleting duplicate file: ./data/images/QmWTVdHCUXrCyHMBrwWZdkyAsnaxxYg8zCZyFXtYeu8ZZP.webp
+Deleting duplicate file: ./data/images/QmbTvHdfPp7XUdQcBQgB11LfRDMcBeosVavPaZi35RDFTL.bin
+Deleting duplicate file: ./data/images/QmPMrgi6wnG1jnDnSzUsQHQS9dijShfrwWxMW57ygNarZL.webp
+Deleting duplicate file: ./data/images/QmUqdbWtL5Nvwvt1WtJxMsqTNhKoSq5xUaF6mqTfKWaM5w.webp
+Deleting duplicate file: ./data/images/QmT2ECvGHbKwLHoihcUMaNVsqyYWz7zsZpzz1UyZfAdhYB.mp4
+Deleting duplicate file: ./data/images/QmangUjAGgyFAjXdW88pLu2yRbH6RYXKaUAZMe4oqKwoAq.webp
+Deleting duplicate file: ./data/images/QmVo5Kk5kNQ7qrDHM6VaYxwnqeHn7udKpRAHTLfMCr8HnA.bin
+Deleting duplicate file: ./data/images/QmQhz6xvBa6uucE5AhrVKcmmzh7MtttEDQsji275x4nvet.webp
+Deleting duplicate file: ./data/images/QmTguTB8uoSBhnzxochUDocryps9FqALRH5Zmh57hLFNM8.webp
+Deleting duplicate file: ./data/images/QmNfA6nEEB1jF5RTuusZfZ7vWEuWsQ9F6nveAfbxzntkx7.gif
+Deleting duplicate file: ./data/images/QmVaRwmieERGe4XGfta2NCZ1zT24XeprHUtgnHWhwFb7bm.bin
+Deleting duplicate file: ./data/images/QmTDFZ6Yts6MXH3t6vK66TK8s3ycgxEAnxdw55fo7STjgY.bin
+Deleting duplicate file: ./data/images/QmVCpnRwWmcgTTyjYv8a4VyR77QngwrDc3VRqXocuTEjLm.webp
+Deleting duplicate file: ./data/images/QmXho4nqa3XSp4CAzLsyGjWU1tnAVwW7hngVTJJvwnEeJj.webp
+Deleting duplicate file: ./data/images/QmW3gx8DzScMi5qkzXfRDQWLzQikoYcoL4DZph1jBasa8R.webp
+Deleting duplicate file: ./data/images/QmTrdVZZyZdcu1khgjYMe91mqkGyjMSgaXPR1MsffdArKJ.bin
+Deleting duplicate file: ./data/images/QmUUmL7mq9HQSaPumsZjG79UqQ3mZhLpiW7ZNvphunuq3G.webp
+Duplicate cleanup complete
+Mapping file extensions to IPFS hashes
+Mapping file extensions to IPFS hashes in the directory
+File extension to IPFS hash mapping complete
+Loading network assets
+Updating asset maps
+Sending command: "listassets" to host: 127.0.0.1 with params: ['', True]
+Node replied with result of length 441156
+Retrying failed downloads
+Retrying 35 failed downloads...
+Retrying download for IPFS hash: QmcnXe2nkRBddevyJ4Yb3Bf5jmjy3WA8Lm45eyr5ZnMWPJ
+Retrying download for IPFS hash: QmQtvWNq37WN4BvtJBgNFqoXcGXwGr6ssCyNR2guHFScnF
+Retrying download for IPFS hash: Qmf2YEhg11CCYJac3DuDwt3nAXjQmCvKr8YWMvF4Hx99Lr
+Retrying download for IPFS hash: QmWsw7peKh4y59Tcx8W9t2btif5puaPaowBhoKwKTUE7s1
+Retrying download for IPFS hash: QmTzuYK5oKz2PPirWZD1SrCwrDJJmMDAYcnvbRzMayBGRz
+
+========================================
+         MANTICORE IPFS Mirror          
+========================================
+  (c) 2024 Manticore Technologies LLC   
+----------------------------------------
+Welcome to the Manticore IPFS Mirror! 
+This mirror is designed for Evrmore assets.
+----------------------------------------
+
+Starting image downloader
+Initializing necessary directories
+Cleaning up duplicate files in the images directory
+Starting duplicate cleanup
+Duplicate cleanup complete
+Mapping file extensions to IPFS hashes
+Mapping file extensions to IPFS hashes in the directory
+File extension to IPFS hash mapping complete
+Loading network assets
+Updating asset maps
+Sending command: "listassets" to host: 127.0.0.1 with params: ['', True]
+Node replied with result of length 441156
+Retrying failed downloads
+Retrying 36 failed downloads...
+Retrying download for IPFS hash: QmTzuYK5oKz2PPirWZD1SrCwrDJJmMDAYcnvbRzMayBGRz
+
+========================================
+         MANTICORE IPFS Mirror          
+========================================
+  (c) 2024 Manticore Technologies LLC   
+----------------------------------------
+Welcome to the Manticore IPFS Mirror! 
+This mirror is designed for Evrmore assets.
+----------------------------------------
+
+Starting image downloader
+Initializing necessary directories
+Cleaning up duplicate files in the images directory
+Starting duplicate cleanup
+Duplicate cleanup complete
+Mapping file extensions to IPFS hashes
+Mapping file extensions to IPFS hashes in the directory
+File extension to IPFS hash mapping complete
+Loading network assets
+Updating asset maps
+Sending command: "listassets" to host: 127.0.0.1 with params: ['', True]
+Node replied with result of length 441156
+Retrying failed downloads
+Retrying 36 failed downloads...
+Retrying download for IPFS hash: QmWNKywfobRpQhmvcvEEnURck4Giju9xq19GH3ox6fXvZE
+Retrying download for IPFS hash: Qmf2YEhg11CCYJac3DuDwt3nAXjQmCvKr8YWMvF4Hx99Lr
+
+========================================
+         MANTICORE IPFS Mirror          
+========================================
+  (c) 2024 Manticore Technologies LLC   
+----------------------------------------
+Welcome to the Manticore IPFS Mirror! 
+This mirror is designed for Evrmore assets.
+----------------------------------------
+
+Starting image downloader
+Initializing necessary directories
+Cleaning up duplicate files in the images directory
+Starting duplicate cleanup
+Duplicate cleanup complete
+Mapping file extensions to IPFS hashes
+Mapping file extensions to IPFS hashes in the directory
+File extension to IPFS hash mapping complete
+Loading network assets
+Updating asset maps
+Sending command: "listassets" to host: 127.0.0.1 with params: ['', True]
+Node replied with result of length 441156
+Retrying failed downloads
+
+========================================
+         MANTICORE IPFS Mirror          
+========================================
+  (c) 2024 Manticore Technologies LLC   
+----------------------------------------
+Welcome to the Manticore IPFS Mirror! 
+This mirror is designed for Evrmore assets.
+----------------------------------------
+
+Starting image downloader
+Initializing necessary directories
+Cleaning up duplicate files in the images directory
+Starting duplicate cleanup
+Duplicate cleanup complete
+Mapping file extensions to IPFS hashes
+Mapping file extensions to IPFS hashes in the directory
+File extension to IPFS hash mapping complete
+Loading network assets
+Updating asset maps
+Sending command: "listassets" to host: 127.0.0.1 with params: ['', True]
+Node replied with result of length 441156
+Retrying failed downloads
+Retrying 1 failed downloads...
+Retrying download for IPFS hash: QmfQUhKgEqnJKF2wPmeE3HB8amK6LTyfave4p7QCUMjU7u
+Retry complete. 0 downloads still failed.
+Sleeping for 60 seconds

@@ -159,10 +159,19 @@ def load_map(map_name):
 import requests
 import time
 from mimetypes import guess_extension
+
 def download_image(ipfs_hash):
     print("ipfs_hash:", ipfs_hash)
     image_url = f"http://localhost:8080/ipfs/{ipfs_hash}"
     
+    # Load existing failed downloads
+    failed_downloads_path = './data/maps/failed_downloads.json'
+    if os.path.exists(failed_downloads_path):
+        with open(failed_downloads_path, 'r') as file:
+            failed_downloads = json.load(file)
+    else:
+        failed_downloads = []
+
     # Try downloading the image
     try:
         response = requests.get(image_url, stream=True, timeout=10)
@@ -191,7 +200,10 @@ def download_image(ipfs_hash):
 
         print(f"Downloaded image for IPFS hash {ipfs_hash} as {image_path}")
         time.sleep(0.3)
-        return
+
+        # If the download is successful, remove it from the failed downloads list if it exists there
+        if ipfs_hash in failed_downloads:
+            failed_downloads.remove(ipfs_hash)
 
     except (requests.RequestException, requests.Timeout) as e:
         print(f"Failed to download image for IPFS hash {ipfs_hash}. Saving placeholder.")
@@ -205,5 +217,13 @@ def download_image(ipfs_hash):
         image_path = os.path.join(f"./data/images/{ipfs_hash}.png")
         with open(image_path, 'wb') as f:
             f.write(placeholder_data)
-        
-        return
+
+        # Add the failed download to the list if it's not already there
+        if ipfs_hash not in failed_downloads:
+            failed_downloads.append(ipfs_hash)
+    
+    # Save the updated failed downloads list
+    with open(failed_downloads_path, 'w') as file:
+        json.dump(failed_downloads, file, indent=4)
+
+    return
